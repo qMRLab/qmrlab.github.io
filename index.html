@@ -1,0 +1,43 @@
+---
+layout: frontpage
+title: Home
+---
+
+
+
+{% include qmrlab-top.html %}
+
+<!-- About -->
+ {% include qmrlab-about.html %}
+
+<!-- Team -->
+ {% include contributors.html %} 
+           
+<!-- Affiliations -->
+{% include qmrlab-affiliation.html %} 
+    
+
+    <!-- Blog -->
+    <div class="section">
+    <div class="section-header text-center">
+        <h2>Featured Posts</h2>
+    </div>
+    <div class="featured-posts">
+    <div class="row">
+        
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+        
+    </div>
+	</div>
+</div>
+    <!-- /Blog -->
+
+    
