@@ -1,0 +1,41 @@
+<div id="team" class="section">
+
+                <!-- Section header -->
+                <div class="section-header text-center">
+                    <h2 class="title">Contributors</h2>
+                </div>
+    
+
+<!-- Container -->
+        <div class="container">
+
+            <!-- Row -->
+            <div class="row">
+    {% for contributor in site.data.contributors %}
+    <!--contributor -->
+    <div class="col-sm-4"><div class="team">
+        <div class="team-img">
+            <img class="img-responsive" src="{{ contributor.github}}.png?size=300" alt="">
+            <div class="overlay">
+                <div class="team-social">
+                 <a href="{{ contributor.facebook}}"><i class="fa fa-facebook"></i></a>
+                 <a href="{{ contributor.github}}"><i class="fa fa-github"></i></a>
+                 <a href="{{ contributor.twitter}}"><i class="fa fa-twitter"></i></a>
+             </div>
+         </div>
+     </div>
+     <div class="team-content">
+        <h3> {{ contributor.name }} </h3>
+        <span></span>
+    </div>
+</div>
+</div>
+<!-- /contributor -->
+    {% endfor %}
+
+<!-- /Container -->
+        </div>
+
+            <!-- /Row -->
+            </div>
+</div>

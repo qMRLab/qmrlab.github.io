@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Quantitative MRI under one umbrella</description>
+    <link>http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//</link>
+    <atom:link href="http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 19 Aug 2018 02:04:31 +0200</pubDate>
+    <lastBuildDate>Sun, 19 Aug 2018 02:04:31 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Never stopped worrying or loving the bomb</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;SoLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada. Fames ac turpis egestas maecenas pharetra convallis. Amet consectetur adipiscing elit ut aliquam. Proin libero nunc consequat interdum varius sit amet mattis. Donec adipiscing tristique risus nec feugiat in fermentum. Proin sed libero enim sed. Imperdiet sed euismod nisi porta lorem. Nec ultrices dui sapien eget mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Lacinia at quis risus sed vulputate. Neque viverra justo nec ultrices dui sapien eget. Hendrerit gravida rutrum quisque non tellus. Scelerisque eleifend donec pretium vulputate sapien. Ullamcorper sit amet risus nullam. Ut pharetra sit amet aliquam id diam maecenas. Non enim praesent elementum facilisis. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/2018/01/12/never-stopped-worrying-never-loved-bomb.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/2018/01/12/never-stopped-worrying-never-loved-bomb.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Is Intelligence Enough</title>
+        <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+
+&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+
+&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+
+&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/tutorial/2018/01/12/is-intelligence-enough.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/tutorial/2018/01/12/is-intelligence-enough.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Start Guide</title>
+        <description>&lt;p&gt;You want to run interactive jupyter notebooks in a blog post? It’s never been easier.&lt;/p&gt;
+
+&lt;p&gt;Here is an example:&lt;/p&gt;
+
+&lt;pre data-executable=&quot;true&quot; data-language=&quot;python&quot;&gt;print(&quot;Hello!&quot;)&lt;/pre&gt;
+&lt;pre data-executable=&quot;true&quot; data-language=&quot;python&quot;&gt;1+1&lt;/pre&gt;
+&lt;pre data-executable=&quot;true&quot; data-language=&quot;python&quot;&gt;
+%matplotlib inline
+import numpy as np
+import matplotlib.pyplot as plt
+x = np.linspace(0,10)
+plt.plot(x, np.sin(x))
+plt.plot(x, np.cos(x))
+&lt;/pre&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/tutorial/2018/01/11/quick-start-guide.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/tutorial/2018/01/11/quick-start-guide.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Post 2</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada. Fames ac turpis egestas maecenas pharetra convallis. Amet consectetur adipiscing elit ut aliquam. Proin libero nunc consequat interdum varius sit amet mattis. Donec adipiscing tristique risus nec feugiat in fermentum. Proin sed libero enim sed. Imperdiet sed euismod nisi porta lorem. Nec ultrices dui sapien eget mi proin sed libero enim. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Lacinia at quis risus sed vulputate. Neque viverra justo nec ultrices dui sapien eget. Hendrerit gravida rutrum quisque non tellus. Scelerisque eleifend donec pretium vulputate sapien. Ullamcorper sit amet risus nullam. Ut pharetra sit amet aliquam id diam maecenas. Non enim praesent elementum facilisis. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.&lt;/p&gt;
+
+&lt;p&gt;Amet nisl purus in mollis nunc sed. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Tortor at auctor urna nunc. Varius duis at consectetur lorem donec massa sapien. Mattis vulputate enim nulla aliquet porttitor lacus. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Commodo nulla facilisi nullam vehicula ipsum a arcu. Id velit ut tortor pretium viverra. Eget nunc scelerisque viverra mauris in aliquam sem. Nam libero justo laoreet sit amet cursus sit.&lt;/p&gt;
+
+&lt;p&gt;Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Id diam maecenas ultricies mi eget. Varius duis at consectetur lorem donec massa. Eu scelerisque felis imperdiet proin fermentum leo vel orci. Cras ornare arcu dui vivamus arcu felis bibendum ut tristique. Nibh nisl condimentum id venenatis a condimentum. Lorem sed risus ultricies tristique nulla aliquet enim. Vel pretium lectus quam id leo in. Eu augue ut lectus arcu. Cras adipiscing enim eu turpis egestas.&lt;/p&gt;
+
+&lt;p&gt;Id ornare arcu odio ut sem nulla. Nec feugiat in fermentum posuere urna. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. In dictum non consectetur a erat nam at. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Volutpat sed cras ornare arcu dui. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Sed vulputate mi sit amet mauris commodo quis imperdiet massa. Vitae tortor condimentum lacinia quis vel eros donec.&lt;/p&gt;
+
+&lt;p&gt;Morbi tincidunt ornare massa eget. Turpis egestas sed tempus urna. Dui nunc mattis enim ut tellus elementum sagittis vitae. Sit amet purus gravida quis blandit turpis cursus. Donec ultrices tincidunt arcu non sodales neque. Consequat interdum varius sit amet. Velit aliquet sagittis id consectetur purus ut faucibus. Odio ut enim blandit volutpat maecenas volutpat. Tortor at auctor urna nunc id cursus metus aliquam. Auctor urna nunc id cursus metus. Sed felis eget velit aliquet sagittis. Amet consectetur adipiscing elit ut. Mattis vulputate enim nulla aliquet porttitor lacus luctus. Turpis cursus in hac habitasse. Faucibus vitae aliquet nec ullamcorper sit amet risus.&lt;/p&gt;
+
+&lt;p&gt;Odio tempor orci dapibus ultrices. Amet dictum sit amet justo. Sit amet est placerat in egestas erat imperdiet. Tellus orci ac auctor augue mauris augue neque. Aenean euismod elementum nisi quis. Laoreet id donec ultrices tincidunt. Bibendum neque egestas congue quisque egestas. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Egestas pretium aenean pharetra magna ac placerat. Nisl suscipit adipiscing bibendum est. Aenean pharetra magna ac placerat. Elementum curabitur vitae nunc sed velit. Hendrerit gravida rutrum quisque non tellus orci ac. Interdum consectetur libero id faucibus nisl tincidunt eget nullam.&lt;/p&gt;
+
+&lt;p&gt;Sit amet risus nullam eget felis eget. Maecenas sed enim ut sem viverra aliquet eget. Cras pulvinar mattis nunc sed blandit. Egestas pretium aenean pharetra magna ac. Sollicitudin ac orci phasellus egestas tellus rutrum tellus. Facilisis volutpat est velit egestas. Vivamus at augue eget arcu dictum varius duis at consectetur. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Ultrices dui sapien eget mi proin. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Urna id volutpat lacus laoreet non curabitur gravida. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Convallis convallis tellus id interdum velit. Gravida cum sociis natoque penatibus et magnis dis parturient. Urna et pharetra pharetra massa. Faucibus purus in massa tempor nec feugiat nisl pretium fusce.&lt;/p&gt;
+
+&lt;p&gt;In arcu cursus euismod quis viverra nibh cras. Blandit turpis cursus in hac. Consequat id porta nibh venenatis cras sed. Nec dui nunc mattis enim ut. Diam sollicitudin tempor id eu. Scelerisque viverra mauris in aliquam. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Nunc congue nisi vitae suscipit tellus mauris a. Lorem sed risus ultricies tristique. Vehicula ipsum a arcu cursus vitae congue mauris. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Libero enim sed faucibus turpis in eu. Suspendisse faucibus interdum posuere lorem ipsum. Ac turpis egestas sed tempus. Tincidunt lobortis feugiat vivamus at augue eget arcu. Pretium fusce id velit ut tortor pretium. Lectus mauris ultrices eros in cursus.&lt;/p&gt;
+
+&lt;p&gt;Placerat vestibulum lectus mauris ultrices eros. Vitae auctor eu augue ut lectus. Diam sollicitudin tempor id eu. In mollis nunc sed id semper. Sit amet purus gravida quis blandit. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Vestibulum lectus mauris ultrices eros. Facilisi cras fermentum odio eu feugiat. Aliquam ultrices sagittis orci a. Scelerisque eu ultrices vitae auctor eu augue ut lectus. Facilisis volutpat est velit egestas dui id ornare. Scelerisque eu ultrices vitae auctor eu augue ut. Diam quam nulla porttitor massa id neque aliquam vestibulum morbi. Nunc sed blandit libero volutpat sed cras ornare. Amet dictum sit amet justo donec enim diam. Vivamus arcu felis bibendum ut.&lt;/p&gt;
+
+&lt;p&gt;Ante in nibh mauris cursus mattis molestie a. Tempor nec feugiat nisl pretium fusce. Mi ipsum faucibus vitae aliquet nec ullamcorper. Interdum velit euismod in pellentesque massa placerat duis ultricies. Lacus sed turpis tincidunt id aliquet risus feugiat in. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Enim ut sem viverra aliquet eget sit. Viverra maecenas accumsan lacus vel facilisis volutpat est. Ac orci phasellus egestas tellus rutrum. Etiam dignissim diam quis enim. Lectus proin nibh nisl condimentum id. Odio ut sem nulla pharetra diam sit amet. Et netus et malesuada fames ac turpis. Sed nisi lacus sed viverra tellus.&lt;/p&gt;
+
+&lt;p&gt;Sed sed risus pretium quam. Ornare arcu odio ut sem nulla pharetra diam. Mauris vitae ultricies leo integer malesuada nunc vel. Quam id leo in vitae turpis. Ac feugiat sed lectus vestibulum mattis ullamcorper. Bibendum est ultricies integer quis auctor. Ac felis donec et odio pellentesque. Vulputate eu scelerisque felis imperdiet proin fermentum leo. Et leo duis ut diam quam nulla. Non blandit massa enim nec dui nunc mattis enim. Ipsum consequat nisl vel pretium lectus. Suspendisse ultrices gravida dictum fusce ut placerat. Leo vel orci porta non pulvinar neque laoreet. Condimentum mattis pellentesque id nibh. Elementum eu facilisis sed odio morbi quis. Odio euismod lacinia at quis.&lt;/p&gt;
+
+&lt;p&gt;Dictumst quisque sagittis purus sit amet. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Nulla pellentesque dignissim enim sit. Lectus mauris ultrices eros in cursus turpis massa tincidunt. Aliquam faucibus purus in massa. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Quisque egestas diam in arcu cursus euismod quis viverra. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Velit euismod in pellentesque massa placerat duis ultricies lacus sed. Arcu risus quis varius quam quisque. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Facilisi nullam vehicula ipsum a.&lt;/p&gt;
+
+&lt;p&gt;Felis eget velit aliquet sagittis id consectetur purus ut. Augue eget arcu dictum varius duis. Nisl vel pretium lectus quam id leo in vitae turpis. Sed sed risus pretium quam. Tellus elementum sagittis vitae et leo duis. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Ut ornare lectus sit amet est placerat. Felis eget nunc lobortis mattis aliquam faucibus. Convallis aenean et tortor at risus viverra. Nulla facilisi cras fermentum odio eu feugiat. Rutrum quisque non tellus orci ac auctor. Mattis pellentesque id nibh tortor id aliquet lectus proin nibh. Bibendum at varius vel pharetra vel. Ut etiam sit amet nisl. Platea dictumst vestibulum rhoncus est pellentesque. Integer enim neque volutpat ac tincidunt vitae semper quis. Nulla facilisi nullam vehicula ipsum a arcu. Sagittis vitae et leo duis ut diam quam nulla.&lt;/p&gt;
+
+&lt;p&gt;Tincidunt id aliquet risus feugiat in ante metus dictum at. Aliquet nibh praesent tristique magna sit amet. Sapien et ligula ullamcorper malesuada proin. Non pulvinar neque laoreet suspendisse interdum consectetur libero id. Felis eget nunc lobortis mattis aliquam faucibus purus. Et netus et malesuada fames ac. Mauris pellentesque pulvinar pellentesque habitant. Massa massa ultricies mi quis hendrerit dolor magna. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin. Leo integer malesuada nunc vel risus commodo viverra maecenas. Vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt. Et ultrices neque ornare aenean. Id faucibus nisl tincidunt eget.&lt;/p&gt;
+
+&lt;p&gt;Nunc vel risus commodo viverra. Condimentum vitae sapien pellentesque habitant morbi tristique. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Consequat semper viverra nam libero justo laoreet sit amet cursus. Volutpat diam ut venenatis tellus in metus vulputate. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Sit amet tellus cras adipiscing enim eu. Nulla facilisi nullam vehicula ipsum a. Et netus et malesuada fames ac turpis egestas integer eget. Et pharetra pharetra massa massa ultricies mi quis. Justo nec ultrices dui sapien. Non tellus orci ac auctor augue mauris augue neque gravida. Mi bibendum neque egestas congue quisque egestas. Donec et odio pellentesque diam volutpat commodo. Fringilla ut morbi tincidunt augue interdum.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/tutorial/2018/01/11/customer-service.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://tommyboshkovski.github.io/qmrlab-site//jekyll/tutorial/2018/01/11/customer-service.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+  </channel>
+</rss>
