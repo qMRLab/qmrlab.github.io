@@ -4,7 +4,7 @@ description: "Quantitative MRI under one umbrella"
 meta_description: "qMRLab - Quantitative MRI under one umbrella"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://tommyboshkovski.github.io/qmrlab-site'
+baseurl: 'https://qmrlab.github.io/website'
 google_analytics: 'UA-46278016-1'
 disqus: 'qMRLab-test'
 
@@ -28,10 +28,10 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -39,11 +39,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
