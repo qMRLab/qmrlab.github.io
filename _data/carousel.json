@@ -5,13 +5,23 @@
       "color": "green"
       },
       {
-      "image": "dti",
+      "image": "b0",
+      "label": "B0",
+      "color": "green"
+      },
+      {
+      "image": "fa",
+      "label": "DTI",
+      "color": "orange"
+      },
+      {
+      "image": "md",
       "label": "DTI",
       "color": "orange"
       },
        {
       "image": "inversion",
-      "label": "IR",
+      "label": "IR-T1",
       "color": "red"
       },
        {
@@ -36,8 +46,33 @@
       }, 
       {
       "image": "vfa",
-      "label": "VFA",
+      "label": "VFA-T1",
       "color": "red"
+      },
+      {
+      "image": "qsm",
+      "label": "QSM",
+      "color": "pink"
+      },
+      {
+      "image": "odi",
+      "label": "CHARMED",
+      "color": "orange"
+      },
+      {
+      "image": "mtr",
+      "label": "MTR",
+      "color": "aqua"
+      },
+      {
+      "image": "kf",
+      "label": "qMT",
+      "color": "aqua"
+      }, 
+      {
+      "image": "isovf",
+      "label": "NODDI",
+      "color": "orange"
       }
     
 ]
