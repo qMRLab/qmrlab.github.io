@@ -1,0 +1,43 @@
+[
+      {
+      "image": "b1.png",
+      "label": "B1+",
+      "color": "green"
+      },
+      {
+      "image": "dti.png",
+      "label": "DTI",
+      "color": "orange"
+      },
+       {
+      "image": "inversion.png",
+      "label": "IR",
+      "color": "red"
+      },
+       {
+      "image": "md.png",
+      "label": "DTI",
+      "color": "orange"
+      },
+       {
+      "image": "mtsat.png",
+      "label": "MTsat",
+      "color": "aqua"
+      }, 
+      {
+      "image": "mwf.png",
+      "label": "MWF",
+      "color": "red"
+      }, 
+      {
+      "image": "qmtF.png",
+      "label": "qMT",
+      "color": "aqua"
+      }, 
+      {
+      "image": "vfa.png",
+      "label": "VFA",
+      "color": "red"
+      }
+    
+]
