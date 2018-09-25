@@ -1,41 +1,41 @@
 [
       {
-      "image": "b1.png",
+      "image": "b1",
       "label": "B1+",
       "color": "green"
       },
       {
-      "image": "dti.png",
+      "image": "dti",
       "label": "DTI",
       "color": "orange"
       },
        {
-      "image": "inversion.png",
+      "image": "inversion",
       "label": "IR",
       "color": "red"
       },
        {
-      "image": "md.png",
+      "image": "md",
       "label": "DTI",
       "color": "orange"
       },
        {
-      "image": "mtsat.png",
+      "image": "mtsat",
       "label": "MTsat",
       "color": "aqua"
       }, 
       {
-      "image": "mwf.png",
+      "image": "mwf",
       "label": "MWF",
       "color": "red"
       }, 
       {
-      "image": "qmtF.png",
+      "image": "qmtF",
       "label": "qMT",
       "color": "aqua"
       }, 
       {
-      "image": "vfa.png",
+      "image": "vfa",
       "label": "VFA",
       "color": "red"
       }
