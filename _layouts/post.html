@@ -50,12 +50,16 @@ post_class: post-template
                 {% if page.author %}
 				<div class="row post-top-meta">
 					<div class="col-md-2">
+<<<<<<< HEAD
 <<<<<<< current
 						<img class="author-thumb" src="https://www.github.com/{{ author.github_name }}.png?size=250" alt="{{ author.display_name }}">
 =======
 						<img class="author-thumb" src="{{ author.github }}.png?size=250" alt="{{ author.display_name }}">
 						<img class="author-thumb" src="{{ author.git }}.png?size=250" alt="{{ author.display_name }}">
 >>>>>>> before discard
+=======
+						<img class="author-thumb" src="{{ author.git }}.png?size=250" alt="{{ author.display_name }}">
+>>>>>>> ff87a3a2d6d6995eb45b0e6e8094bb7e7545c38f
 					</div>
 					<div class="col-md-10">
 						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>

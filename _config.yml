@@ -18,12 +18,17 @@ authors:
     display_name: Mathieau
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: emb6150@gmail.com
+<<<<<<< HEAD
     github: https://github.com/mathieuboudreau
     web: 
     git_name: mathieuboudreau
     web:
     git: https://github.com/mathieuboudreau
     web: none
+=======
+    git: https://github.com/mathieuboudreau
+    web: none 
+>>>>>>> ff87a3a2d6d6995eb45b0e6e8094bb7e7545c38f
     twitter: https://twitter.com/_mattboud
     description: "Author"
   john:
