@@ -7,7 +7,8 @@ image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
- 
+
+<iframe src="//slides.com/agahkarakuzu/qmrlabjn1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
  </script>
@@ -25,16 +26,16 @@ hidden: true
         kernelOptions: {
     	name: "SOS"
      	},
-  
-        
+
+
       }
 </script>
 <script type="text/javascript" src="https://unpkg.com/thebelab@^0.3.0"></script>
 
 
 
-You want to run interactive jupyter notebooks in a blog post? It's never been easier. 
- 
+You want to run interactive jupyter notebooks in a blog post? It's never been easier.
+
 Here is an example:
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Open the code</button>
