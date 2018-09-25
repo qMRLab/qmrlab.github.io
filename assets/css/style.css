@@ -83,6 +83,10 @@ Author: yaminncco
  .white-text {
     color: #FFF;
 }
+.white-text2{
+  color: #FFF;
+  font-size: 3.7em;
+}
  ::-moz-selection {
     background-color: #6195FF;
     color: #FFF;
