@@ -2,6 +2,7 @@
 layout: post
 title:  "T1 mapping: Inversion Recovery"
 author: Methieau
+author: Mathieau
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
 featured: true
