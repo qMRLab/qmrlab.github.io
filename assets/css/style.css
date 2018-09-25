@@ -819,6 +819,11 @@ Author: yaminncco
  /*------------------------------------*\
 	Testimonial
 \*------------------------------------*/
+
+.img-responsive
+{
+  width: 300px
+}
  .testimonial {
     margin: 15px 0px;
 }
