@@ -11,13 +11,14 @@ disqus: 'qMRLab-test'
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Methieau Boudreau
+    display_name: Methieau
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: emb6150@gmail.com
+    github: https://github.com/mathieuboudreau
+    web: 
+    twitter: https://twitter.com/_mattboud
+    description: "Author"
   john:
     name: John
     display_name: John
