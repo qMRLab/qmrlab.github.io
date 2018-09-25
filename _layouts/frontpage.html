@@ -99,7 +99,7 @@
         /*background-color:rgba(255, 255, 255, .75);
         border:10px solid rgba(255, 255, 255, .5);
         color:red;*/
-        font-size:72px;
+        font-size:60px;
         left:50%;
         top:50%;
         margin-left:-160px;
@@ -307,7 +307,7 @@
 
             // set mouse x and y props and looper ticker
             window.addEventListener( "click", onClick, false );
-            ticker = setInterval( looper, 5000/60 );
+            ticker = setInterval( looper, 2500/60 );
         }
 
         function animateIn( $item, $block )
@@ -337,7 +337,7 @@
             }
             else
             {
-                ticker = setInterval(looper,1000/60);
+                ticker = setInterval(looper,2500/60);
             }
         }
 
