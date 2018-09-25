@@ -286,7 +286,7 @@
             itemLength = $( '.carouselItem' ).length;
             fps = $('#fps');
             rY = 360 / itemLength;
-            radius = Math.round((window.screen.width));
+            radius = Math.round((window.screen.width)*0.8);
 
             // set container 3d props
             TweenMax.set(container, {perspective:600})
