@@ -19,6 +19,15 @@ authors:
     web: none
     twitter: https://twitter.com/_mattboud
     description: "Author"
+  Agah:
+    name: Agah Karakuzu
+    display_name: Agah
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: agahkarakuzu@gmail.com
+    git_name: agahkarakuzu
+    web: http://agahkarakuzu.github.io
+    twitter: https://twitter.com/agahkarakuzu
+    description: "Author"
   john:
     name: John
     display_name: John

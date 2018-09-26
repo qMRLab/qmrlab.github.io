@@ -8,8 +8,6 @@ featured: true
 hidden: true
 ---
 
-<iframe src="//slides.com/agahkarakuzu/qmrlabjn1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
  </script>
 <script type="text/x-thebe-config">
