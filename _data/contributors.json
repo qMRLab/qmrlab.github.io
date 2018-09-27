@@ -1,11 +1,5 @@
 [
-    {
-      "name": "Nikola Stikov",
-      "image": "stikov.jpg",
-      "twitter": "https://twitter.com/Stikov",
-      "github": "https://github.com/nstikov",
-      "facebook": "https://www.facebook.com/stikov"
-      },
+
      {
       "name": "Agah Karakuzu",
       "image": "agah.jpg",
@@ -47,5 +41,12 @@
       "twitter": "#",
       "github": "https://github.com/jcohenadad",
       "facebook": "https://www.facebook.com/julien.cohenadad"
+    },
+      {
+        "name": "Nikola Stikov",
+        "image": "stikov.jpg",
+        "twitter": "https://twitter.com/Stikov",
+        "github": "https://github.com/nstikov",
+        "facebook": "https://www.facebook.com/stikov"
       }
 ]
