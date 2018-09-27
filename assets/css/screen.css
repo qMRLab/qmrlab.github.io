@@ -1,8 +1,8 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-Version: 1.0.2 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+Version: 1.0.2
+License: https://www.wowthemes.net/freebies-license/
 */
  .mainheading {
      padding:1rem 0rem;
@@ -40,7 +40,7 @@ License: https://www.wowthemes.net/freebies-license/
  .site-content {
      min-height: 60vh;
      padding-top: 1.5rem;
-     
+
      transition: all 0.4s;
 }
  section {
@@ -261,6 +261,10 @@ License: https://www.wowthemes.net/freebies-license/
  .featured-image {
      display:block;
      margin-bottom:1.5rem;
+     float: left;
+     width: 150px;
+     margin-right: 20px;
+
 }
  .share {
      text-align:center;
