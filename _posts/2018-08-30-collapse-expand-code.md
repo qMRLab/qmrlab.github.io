@@ -4,6 +4,7 @@ title:  "Collapse/Expand Code"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
+excerpt: This is an test excerpt.
 featured: true
 hidden: true
 ---
