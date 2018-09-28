@@ -547,28 +547,7 @@ Author: yaminncco
     color: #6195FF;
     margin-bottom: 20px;
 }
- .about:after {
-    content: "";
-    background-color: #1C1D21;
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 0%;
-    z-index: -1;
-    -webkit-transition: 0.2s width;
-    transition: 0.2s width;
-}
- .about:hover:after {
-    width: 100%;
-}
- .about h3 {
-    -webkit-transition: 0.2s color;
-    transition: 0.2s color;
-}
- .about:hover h3 {
-    color: #fff;
-}
+
  /*------------------------------------*\
 	Portfolio
 \*------------------------------------*/
