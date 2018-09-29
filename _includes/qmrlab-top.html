@@ -2,16 +2,6 @@
 <section id="home">
         <!-- Background Image -->
         <div class="bg-img" style="background-color: black;">
-                 <div id="contentContainer" class="trans3d">
-    <section id="carouselContainer" class="trans3d">
-      {% for item in site.data.carousel %}
-      <!--carouselItem -->
-          <figure id="item{{ forloop.index }}" class="carouselItem trans3d"><div class="carouselItemInner trans3d"><img src="{{ site.baseurl }}/assets/images/{{ item.image }}.png"><font style="color:{{item.color}};">{{item.label}}</font></div></figure>
-  <!-- /carouselItem -->
-      {% endfor %}
-
-    </section>
-    </div>
             <div class="overlay"></div>
         </div>
         <!-- /Background Image -->
