@@ -58,8 +58,13 @@
     }
 
     @media only screen and (max-width: 1080px) {
-   .trans3d{ display: none !important; }
+    .home-mobile { display: block !important; }
+    .home-pc { display: none !important; }
 }
+    @media only screen and (min-width: 1080px) {
+      .home-mobile { display: block !important; }
+      .home-pc { display: none !important; }
+      }
 
     #contentContainer
     {
