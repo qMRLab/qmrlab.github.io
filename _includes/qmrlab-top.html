@@ -2,6 +2,16 @@
 <section id="home">
         <!-- Background Image -->
         <div class="bg-img" style="background-color: black;">
+                 <div id="contentContainer" class="trans3d">
+    <section id="carouselContainer" class="trans3d">
+      {% for item in site.data.carousel %}
+      <!--carouselItem -->
+          <figure id="item{{ forloop.index }}" class="carouselItem trans3d"><div class="carouselItemInner trans3d"><img src="{{ site.baseurl }}/assets/images/{{ item.image }}.png"><font style="color:{{item.color}};">{{item.label}}</font></div></figure>
+  <!-- /carouselItem -->
+      {% endfor %}
+
+    </section>
+    </div>
             <div class="overlay"></div>
         </div>
         <!-- /Background Image -->
@@ -33,50 +43,31 @@
 
 
 <div class="home-pc">
-  <section  style="home1">
-      <div class="container">
-            <div class="row">
-              <div style="margin: auto; width:50%;">
-                  <div class="home-content">
-                      <span class="white-text2"><img src="{{ site.baseurl }}/assets/images/icon2.png" style="width: 2.2em;"/>qMR<span style="color:red;background-color: #fbdddb ;opacity: 0.9;">Lab</span>
-                    </span>
-                       <h4 class="white-text">Quantitative MRI. Under one umbrella.</h4>
+  <div  class="home1" style="background-color:black">
+    <div style="margin: auto; width:50%;">
+        <div class="home-content">
+          <div style="margin: auto; width:50%;">
+              <div class="home1-content">
+                  <span class="white-text2"><img src="{{ site.baseurl }}/assets/images/icon2.png" style="width: 2.2em;"/>qMR<span style="color:red;background-color: #fbdddb ;opacity: 0.9;">Lab</span>
+                </span>
+                   <h4 class="white-text">Quantitative MRI. Under one umbrella.</h4>
 
-                      <a href="https://github.com/neuropoly/qMRLab/archive/master.zip"><button class="btn-danger">Download</button></a>
-                  </div>
+                  <a href="https://github.com/neuropoly/qMRLab/archive/master.zip"><button class="btn-danger">Download</button></a>
               </div>
-
-
-    <div class="row">
-            <!-- Background Image -->
-            <div class="bg-img" style="background-color: black;">
-                     <div id="contentContainer" class="trans3d">
-
+          </div>
+            <a href="https://github.com/neuropoly/qMRLab/archive/master.zip"><button class="btn-danger">Download</button></a>
         </div>
-                <div class="overlay"></div>
-            </div>
-            <!-- /Background Image -->
-            <!-- home wrapper -->
-            <div class="home-wrapper">
-                <div class="container">
-                    <div class="row">
+    </div>
+  </div>
+<div class="home"
+  <div id="contentContainer" class="trans3d">
+<section id="carouselContainer" class="trans3d">
+{% for item in site.data.carousel %}
+<!--carouselItem -->
+<figure id="item{{ forloop.index }}" class="carouselItem trans3d"><div class="carouselItemInner trans3d"><img src="{{ site.baseurl }}/assets/images/{{ item.image }}.png"><font style="color:{{item.color}};">{{item.label}}</font></div></figure>
+<!-- /carouselItem -->
+{% endfor %}
 
-                        <!-- home content -->
-                        <div style="margin: auto; width:50%;">
-                            <div class="home-content">
-
-                                <a href="https://github.com/neuropoly/qMRLab/archive/master.zip"><button class="btn-danger">Download</button></a>
-                            </div>
-                        </div>
-                        <!-- /home content -->
-
-                    </div>
-                </div>
-            </div>
-            <!-- /home wrapper -->
-
-        </div>
-
-</div>
+</section>
 </div>
 </div>

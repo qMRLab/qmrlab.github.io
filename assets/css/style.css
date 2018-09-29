@@ -502,7 +502,7 @@ Author: yaminncco
     height: 100vh;
 }
 #home1 {
-   height: 120vh;
+   height: 20vh;
 }
  #home .home-wrapper {
     position: absolute;
@@ -524,6 +524,13 @@ Author: yaminncco
    -ms-transform: translateY(-50%);
    transform: translateY(-50%);
    text-align: center;
+}
+
+.home1-content h1 {
+ text-transform: uppercase;
+}
+.home1-content button {
+ margin-top: 20px;
 }
 
  .home-content h1 {
