@@ -38,7 +38,9 @@
 	});
 
 	$('.navbar-toggler').ready(function() {
-		$('.navbar-toggler').click();
+
+		$('#navbarMediumish').attr('aria-expanded','false');
+		$('#navbarMediumish').removeClass('show');
 	});
 
 	///////////////////////////
