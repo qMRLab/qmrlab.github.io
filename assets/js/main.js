@@ -38,10 +38,11 @@
 	});
 
 	$('.navbar-toggler').ready(function() {
-
+		if ($( window ).width()<1000){
 		$('#navbarMediumish').attr('aria-expanded','false');
 		$('#navbarMediumish').removeClass('show');
 		$('#navbarMediumish').addClass('collapse');
+	}
 	});
 
 	///////////////////////////
