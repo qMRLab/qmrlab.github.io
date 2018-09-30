@@ -41,6 +41,7 @@
 
 		$('#navbarMediumish').attr('aria-expanded','false');
 		$('#navbarMediumish').removeClass('show');
+		$('#navbarMediumish').addClass('collapse');
 	});
 
 	///////////////////////////
