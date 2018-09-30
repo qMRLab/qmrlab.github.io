@@ -39,6 +39,7 @@
 
 	$('.navbar-toggler').ready(function() {
 		$('.navbar-toggler').click();
+		$('.navbar-toggler').click();
 	});
 
 	///////////////////////////
