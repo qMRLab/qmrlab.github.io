@@ -32,10 +32,6 @@
 
 	///////////////////////////
 	// Btn nav collapse
-	$('#nav .nav-collapse').ready(function() {
-		if($('#nav').hasClass('open'))
-		$('#nav').removeClass('open');
-	});
 
 	$('#nav .nav-collapse').on('click', function() {
 		$('#nav').toggleClass('open');
