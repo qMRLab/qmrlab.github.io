@@ -95,6 +95,4 @@
 		}
 	});
 
-	$('.navbar-toggler').click();
-
 })(jQuery);
