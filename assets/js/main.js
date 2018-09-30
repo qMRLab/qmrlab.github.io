@@ -37,6 +37,10 @@
 		$('#nav').toggleClass('open');
 	});
 
+	$('.navbar-toggler').ready(function() {
+		$('.navbar-toggler').click();
+	});
+
 	///////////////////////////
 	// Mobile dropdown
 	$('.has-dropdown a').on('click', function() {
