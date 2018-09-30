@@ -33,7 +33,7 @@
 	///////////////////////////
 	// Btn nav collapse
 	$('#nav .nav-collapse').ready(function() {
-		if($('#nav').hasClass('open');
+		if($('#nav').hasClass('open'))
 		$('#nav').removeClass('open');
 	});
 
