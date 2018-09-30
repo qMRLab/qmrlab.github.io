@@ -263,11 +263,11 @@
         var mouseZ = 0;
         var addX = 0;
 
-        /*if(!(!!window.chrome && !!window.chrome.webstore))
+        if(/^((?!chrome|android).)*safari/i.test(navigator.userAgent))
         {
           $('.trans3d').css("display", "none !important");
           //return;
-        }*/
+        }
         // fps counter created by: https://gist.github.com/sharkbrainguy/1156092,
         // no need to create my own :)
         var fps_counter = {
