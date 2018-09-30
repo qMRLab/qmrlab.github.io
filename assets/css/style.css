@@ -499,8 +499,13 @@ Author: yaminncco
     position: relative;
 }
  #home {
-    height: 75vh;
+    height: 62vh;
 }
+
+@media only screen and (max-width: 1080px) {
+  #home { height: 86vh; }
+  }
+
  #home .home-wrapper {
     position: absolute;
     left: 0px;
