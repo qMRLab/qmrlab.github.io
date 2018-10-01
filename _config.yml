@@ -28,15 +28,15 @@ authors:
     web: http://agahkarakuzu.github.io
     twitter: https://twitter.com/agahkarakuzu
     description: "Author"
-  john:
-    name: John
-    display_name: John
+  Tommy:
+    name: Tommy Boshkovski
+    display_name: Tommy Boshkovski
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    git_name: mathieuboudreau
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: boshkovski.tommy@gmail.com
+    git_name: TommyBoshkovski
+    web: https://tommyboshkovski.wixsite.com/index
+    twitter: https://twitter.com/TommyBoshkovski
+    description: "Author"
 
 # Plugins
 plugins:
