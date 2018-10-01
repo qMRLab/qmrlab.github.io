@@ -17,7 +17,11 @@ title: Blog
 
         {% if post.featured == true %}
 
-            {% include featuredbox.html %}
+          {% if post.hidden == false %}
+
+              {% include featuredbox.html %}
+
+          {% endif %}
 
         {% endif %}
 
@@ -41,9 +45,9 @@ title: Blog
     <div class="row listrecent">
 
         {% for post in site.posts %}
-
-               {% include featuredbox.html %}          
-
+            {% if post.hidden == false %}
+               {% include featuredbox.html %}
+            {% endif %}
         {% endfor %}
 
     </div>
