@@ -253,6 +253,14 @@
 <!-- Placed at the end of the document so the pages load faster -->
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script>
+if ( !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/))
+{
+  $('.trans3d').css("display", "none !important");
+  $('#home-pc').css("display", "none !important");
+  $('.home-wrapper').css("display", "block !important");
+}
+</script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/owl.carousel.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
@@ -266,14 +274,6 @@
         var mouseY = 0;
         var mouseZ = 0;
         var addX = 0;
-
-
-        if ( !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/))
-        {
-          $('.trans3d').css("display", "none !important");
-          $('#home-pc').css("display", "none !important");
-          $('.home-wrapper').css("display", "block !important");
-        }
 
         // fps counter created by: https://gist.github.com/sharkbrainguy/1156092,
         // no need to create my own :)
