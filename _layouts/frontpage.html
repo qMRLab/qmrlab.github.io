@@ -268,7 +268,7 @@
         var addX = 0;
 
 
-        if ( /^((?!chrome|android).)*safari/i.test(navigator.userAgent))
+        if ( !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/))
         {
           $('.trans3d').css("display", "none !important");
           $('#home-pc').css("display", "none !important");
