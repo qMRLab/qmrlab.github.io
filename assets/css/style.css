@@ -499,10 +499,10 @@ Author: yaminncco
     position: relative;
 }
  #home {
-    height: 62vh;
+    height: 72vh;
 }
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 768px) {
   #home { height: 86vh; }
   }
 
