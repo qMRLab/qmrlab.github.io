@@ -70,17 +70,6 @@
       #download-button { display: block !important; }
       #text-logo {display: none !important}
       }
-      @media not all and (min-resolution:.001dpcm) { @media
-{
-      .trans3d { display: none !important; }
-      #home-pc { display: none !important; }
-      .home-wrapper { display: block !important;}
-
-}}
-
-
-
-
 
 
 
@@ -278,6 +267,13 @@
         var mouseZ = 0;
         var addX = 0;
 
+
+        if ( /^((?!chrome|android).)*safari/i.test(navigator.userAgent))
+        {
+          $(".trans3d").css("display", "none !important");
+          $("#home-pc").css("display", "none !important");
+          $(".home-wrapper").css("display", "block !important");
+        }
 
         // fps counter created by: https://gist.github.com/sharkbrainguy/1156092,
         // no need to create my own :)
