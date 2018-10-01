@@ -275,6 +275,15 @@ if ( !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/))
         var mouseZ = 0;
         var addX = 0;
 
+
+
+        if ( !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/))
+        {
+          $('#carouselContainer').css("display", "none !important");
+          $('#home-pc').css("display", "none !important");
+          $('.home-wrapper').css("display", "block !important");
+        }
+
         // fps counter created by: https://gist.github.com/sharkbrainguy/1156092,
         // no need to create my own :)
         var fps_counter = {
