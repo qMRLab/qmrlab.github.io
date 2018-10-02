@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-Let’s admit, it is often difficult to explain our research to the people outside of our lab. Given that they are the ones expected to benefit from our research, we should try harder to find ways of getting our points across to the lay audience. To this end, the International Society of Magnetic Resonance in Medicine (ISMRM) announced a public engagement competition, took place at the 2018 annual meeting. 
+Let’s admit, it is often difficult to explain our research to the people outside of our lab. Given that they are the ones expected to benefit from our research, we should try harder to find ways of getting our points across to the lay audience. To this end, the International Society of Magnetic Resonance in Medicine (ISMRM) announced a public engagement competition, took place at the 2018 annual meeting.
 
 For this year’s competition, participants created 3 minutes videos to bring their science to the people. After the initial evaluation, our qMRLab submission qualified among the 10 finalist videos. Following the online voting we won the People’s Choice award!
 
