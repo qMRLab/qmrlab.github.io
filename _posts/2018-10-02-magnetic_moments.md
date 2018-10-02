@@ -16,6 +16,8 @@ Now, for three minutes, forget everything you know about MRI and put yourself in
 
 <center>[![](http://img.youtube.com/vi/67GKiK3iFr0/0.jpg)](http://www.youtube.com/watch?v=67GKiK3iFr0 "")</center>
 
-
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/67GKiK3iFr0 ">
+</iframe>
 
 _Figures used in this blog post are created on Adobe Illustrator based on the free vector graphics provided by [fullvector](https://www.freepik.com/fullvector) and from [Freepik](https://www.freepik.com) team, and original work by [July Gerard](https://www.behance.net/gerardjuly) via [Behance](https://www.behance.net)._
