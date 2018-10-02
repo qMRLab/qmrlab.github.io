@@ -2,67 +2,22 @@
             	<div class="section-header text-center">
             	<h2 class="title">Affiliations</h2>
                 </div>
-
-                <!-- affiliation-logo -->
                 <div class="row">
+                  {% for affiliation in site.data.affiliations %}
+                  <!-- affiliation-logo -->
                 <div class="col-md-4">
                     <div class="affiliation-logo">
                         <div class="img-responsive">
-                            <a href="https://www.neuro.polymtl.ca/">
-                                        <img class="img-responsive" src="{{ site.baseurl }}/assets/images/logo-neuropoly.png" alt="">
+                            <a href="{{affiliation.web}}">
+                                        <img class="img-responsive" src="{{ site.baseurl }}/assets/images/{{affiliation.image}}" alt="">
                             </a>
                         </div>
 
                     </div>
                 </div>
                 <!-- /affiliation-logo -->
-
-                <!-- affiliation-logo -->
-                <div class="col-md-4">
-                    <div class="affiliation-logo">
-                        <div class="img-responsive">
-                            <a href="http://www.polymtl.ca/">
-                                        <img class="img-responsive"  src="{{ site.baseurl }}/assets/images/polymtl-logo.png" alt="">
-                                    </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- /affiliation-logo -->
-
-                <!-- affiliation-logo -->
-                <div class="col-md-4">
-                    <div class="affiliation-logo">
-                        <div class="img-responsive">
-                            <a href="https://www.icm-mhi.org/en/montreal-heart-institute">
-                                        <img class="img-responsive" src="{{ site.baseurl }}/assets/images/montreal-heart-institute.png" alt="">
-                                    </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- /affiliation-logo -->
-
-                <!-- affiliation-logo -->
-                <div class="col-md-4">
-                    <div class="affiliation-logo">
-                        <div class="img-responsive">
-                            <a href="https://www.umontreal.ca/">
-                                        <img class="img-responsive"  src="{{ site.baseurl }}/assets/images/udm-logo.png" alt="">
-                                    </a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <!-- affiliation-logo -->
-                <div class="col-md-4">
-                    <div class="affiliation-logo">
-                        <div class="img-responsive">
-                            <a href="http://www.unf-montreal.ca/site/home/">
-                                        <img class="img-responsive"  src="{{ site.baseurl }}/assets/images/unf-logo.png" alt="">
-                                    </a>
-                        </div>
-                    </div>
-                </div>
+                {%endfor}
+                
           </div>
     </div>
     <!-- /Affiliations -->

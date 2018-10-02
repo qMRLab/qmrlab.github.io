@@ -1,0 +1,28 @@
+[
+
+    {
+      "name": "NeuroPoly Lab",
+      "image": "logo-neuropoly.png",
+      "web": "https://www.neuro.polymtl.ca/",
+    },
+    {
+      "name": "Ecole Polytechnique de Montreal",
+      "image": "polymtl-logo.png",
+      "web": "http://www.polymtl.ca/",
+    },
+    {
+      "name": "Montreal Heart Institute",
+      "image": "montreal-heart-institute.png",
+      "web": "https://www.icm-mhi.org/en/montreal-heart-institute",
+    },
+    {
+      "name": "Universite de Montreal",
+      "image": "udm-logo.png",
+      "web": "https://www.umontreal.ca/",
+    },
+    {
+      "Name": "Unite de Neuroimagerie Fonctionnelle",
+      "image": "unf-logo.png",
+      "web": "http://www.unf-montreal.ca/site/home/",
+    }
+]
