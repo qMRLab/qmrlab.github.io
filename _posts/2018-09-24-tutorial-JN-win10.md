@@ -2,10 +2,11 @@
 layout: post
 title:  "qMRLab in a Jupyter Notebook: A tutorial for Win10 users"
 author: Agah
-categories: [ Tutorial ]
+categories: [ qmrlab ]
 image: assets/images/tut1.png
+feature-image: assets/images/tut1.png
 featured: true
-hidden: true
+hidden: false
 ---
 Imagine that you are exploring a new qMRI analysis method. The code is open in an editor window and your command window is swarmed with hundreds of lines of output logs and command histories. At the same time, you are browsing some paper or documentation to understand how that method works. If you have ever wished for a single piece of document that explains the theory and allows you to play around with the code, you may already have discovered [Jupyter Notebooks](http://jupyter.org/).  
 

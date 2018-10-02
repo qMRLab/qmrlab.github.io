@@ -5,7 +5,7 @@ author: Agah
 categories: [ qmrlab ]
 image: assets/images/hello_world.png
 featured: true
-hidden: true
+hidden: false
 ---
 With almost 40 years of successful use in clinics, magnetic resonance images (MRIs) are an indispensable part of a radiologist’s toolbox. Recently, a growing number of scientists are using MRIs to study different parts of the body, as well as how our body responds to external stimuli.
 

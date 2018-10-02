@@ -5,7 +5,7 @@ author: Agah
 categories: [ qmrlab ]
 image: assets/images/hello_world.png
 featured: true
-hidden: true
+hidden: false
 ---
 
 Let’s admit, it is often difficult to explain our research to the people outside of our lab. Given that they are the ones expected to benefit from our research, we should try harder to find ways of getting our points across to the lay audience. To this end, the International Society of Magnetic Resonance in Medicine (ISMRM) announced a public engagement competition, took place at the 2018 annual meeting.
