@@ -3,7 +3,7 @@ layout: post
 title:  "T1 mapping: Inversion Recovery"
 author: Methieau
 author: Mathieau
-categories: [ qmrlab ]
+categories: [ jekyll ]
 image: assets/images/t1_temp.png
 excerpt: To make the excerpt appear, we either write the excerpt in the post properties (excerpt property) or it will take the first 25 words from the post.
 featured: true
