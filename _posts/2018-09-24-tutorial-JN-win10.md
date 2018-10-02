@@ -7,6 +7,15 @@ image: assets/images/tut1.png
 featured: true
 hidden: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Imagine that you are exploring a new qMRI analysis method. The code is open in an editor window and your command window is swarmed with hundreds of lines of output logs and command histories. At the same time, you are browsing some paper or documentation to understand how that method works. If you have ever wished for a single piece of document that explains the theory and allows you to play around with the code, you may already have discovered [Jupyter Notebooks](http://jupyter.org/).  
 
-<iframe src="//slides.com/agahkarakuzu/qmrlabjn1/embed?style=light" width="900" height="656" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Jupyter Notebooks allow you to choose one from over 40 programming languages including Matlab and Octave, interactively run your analyses, and share them with other people. Moreover, your code can also create rich, interactive output such as HTML, images, videos, and even LaTeX.
+
+In this first qMRLab tutorial, we walk Windows 10 users through the necessary steps to use Jupyter tools on their local machines for creating lively qMRI notebooks using qMRLab. The tutorial is a [slides.com](http://slides.com) presentation embedded below.
+
+On-screen display mode: To navigate between the slides, please use the blue arrows located at the lower right of the presentation panel.
+
+Full-screen display mode: You can start the full screen mode by clicking the expand icon located at the slides.com toolbar below the presentation. Blue navigation arrows or the direction keys on your keyboard can be used to navigate between slides.
+
+
+<iframe src="//slides.com/agahkarakuzu/qmrlabjn1/embed" width="900" height="656" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
