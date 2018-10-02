@@ -14,8 +14,6 @@ For this year’s competition, participants created 3 minutes videos to bring th
 
 Now, for three minutes, forget everything you know about MRI and put yourself in the shoes of a ten-year-old. Hope you’ll enjoy it!
 
-<center>[![](http://img.youtube.com/vi/67GKiK3iFr0/0.jpg)](http://www.youtube.com/watch?v=67GKiK3iFr0 "")</center>
-
 <iframe
 src="https://www.youtube.com/embed/67GKiK3iFr0 ">
 </iframe>
