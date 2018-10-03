@@ -10,7 +10,7 @@
 <meta name="twitter:site" content="@qmrlab" />
 <meta name="twitter:title" content="{{page.title}}" />
 <meta name="twitter:description" content="{{ content | strip_html | truncatewords:25 }}" />
-<meta name="twitter:image" content="{{ site.baseurl }}/{{ page.image }}" />
+<meta name="twitter:image" content="{% if page.image contains "assets" %}{{ site.baseurl }}/{{ page.image }}{% else %}{{ site.baseurl }}/assets/images/logo.png{% endif %}" />
 
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/icon.png">
