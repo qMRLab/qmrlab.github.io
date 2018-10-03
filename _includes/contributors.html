@@ -4,7 +4,7 @@
                 <div class="section-header text-center">
                     <h2 class="title">Contributors</h2>
                 </div>
-    
+
 
 <!-- Container -->
         <div class="container">
@@ -15,7 +15,11 @@
     <!--contributor -->
     <div class="col-sm-4"><div class="team">
         <div class="team-img">
-            <img class="img-responsive" src="{{ contributor.github}}.png?size=300" alt="">
+          {% if contributor.name contains "Bruce Pike" %}
+          <img class="img-responsive" src="https://hbi.ucalgary.ca/files/hbi/styles/profile_uofc/public/pike_bruce_1.jpg?itok=RqkDgV-_" alt="">
+          {%else%}
+          <img class="img-responsive" src="{{ contributor.github}}.png?size=300" alt="">
+          {% endif %}
             <div class="overlay">
                 <div class="team-social">
                  <a href="{{ contributor.facebook}}"><i class="fa fa-facebook"></i></a>
