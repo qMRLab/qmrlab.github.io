@@ -5,26 +5,6 @@ This is the repository that holds the content for the qMRLab website (http://www
 ## For content contributors
 
 
-### Adding author information: _config.yml
-
-Please add an entry in this file (under the 'authors' list) to link between your name and github account (along with other metadata). Sample entry
-
-```
-nickname:
-  name: Jon Doe
-  display_name: Jonny Doe
-  email: jonny@gmail.com
-  git_name: jodoe
-  web: http://jondoe.com
-  twitter: https://twitter.com/jodoe
-  description: `Interested in qMRI. He is a coffee master ....`
-```
-* `name`: Self-explanatory
-* `nickname`: The name that will appear underneath your image in a blog post. For layout reasons, try to keep this to a single name.
-* `github`: Your github handle. *You will need set this in order to post a blog entry*
-* `twitter`: (Optional) Your twitter handle. This meta data will appear underneath your image in a blog post.
-* `website`: (Optional) A link to your academic website (or other). This meta data will appear underneath your image in a blog post.
-
 ### Frontpage: _includes/qmrlab-top.html
 
 The carousel that appears on the top of the page.
@@ -69,7 +49,31 @@ A single entry in the affiliations.json looks like following:
 `web`: A link to the affiliation's website
 
 
+
+
 ## Writing new posts
+
+### Adding author information: _config.yml
+
+Please add an entry in this file (under the 'authors' list) to link between your name and github account (along with other metadata). Sample entry
+
+```
+nickname:
+  name: Jon Doe
+  display_name: Jonny Doe
+  email: jonny@gmail.com
+  git_name: jodoe
+  web: http://jondoe.com
+  twitter: https://twitter.com/jodoe
+  description: `Interested in qMRI. He is a coffee master ....`
+```
+* `name`: Self-explanatory
+* `nickname`: The name that will appear underneath your image in a blog post. For layout reasons, try to keep this to a single name.
+* `github`: Your github handle. *You will need set this in order to post a blog entry*
+* `twitter`: (Optional) Your twitter handle. This meta data will appear underneath your image in a blog post.
+* `website`: (Optional) A link to your academic website (or other). This meta data will appear underneath your image in a blog post.
+
+### Creating a new post
 
 All blog posts are stored in `_posts` and can be written using markdown using the.
 The name of the post file should follow this format YYYY-MM-DD-the-name-of-the-file.md where YYYY-MM-DD is the date when the post was written (Ex. 2018-10-02-hello-world.md ).
