@@ -21,7 +21,7 @@ To make it easy to share _qRecipes_, we developed qMRLab, an open-source softwar
 
 ![alt text]({{ site.baseurl }}/assets/images/Post1_Fig3.png)
 
-We believe qMRLab is an important step in this direction, providing a unified platform that researchers can use to fit their qMR data, simulate signals, and add customizable modules to fulfill the needs of the community. Currently, most labs use in-house code that is difficult to distribute and qMR studies are difficult to reproduce. By providing an open-source software package, coupled with a simple and easy-to-use graphical interface, we also hope to make these techniques accessible to a wider audience, and to help their translation into the clinic.
+We believe qMRLab is an important step in this direction, providing a unified platform that researchers can use to fit their qMR data, simulate signals, and add customizable modules to fulfill the needs of the community. Currently, most labs use code they wrote themselves and is never shared, making it challenging to reproduce their qMR studies. By providing an open-source software package, coupled with a simple and easy-to-use graphical interface, we also hope to make these techniques accessible to a broader audience, and to ease the translation of qMRI techniques into the clinic.
 
 NEXT: The Problem
 
