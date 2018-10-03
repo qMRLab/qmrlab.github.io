@@ -14,7 +14,7 @@ For this year’s competition, participants created 3 minutes videos to bring th
 
 Now, for three minutes, forget everything you know about MRI and put yourself in the shoes of a ten-year-old. Hope you’ll enjoy it!
 
-[![](http://img.youtube.com/vi/67GKiK3iFr0/0.jpg)](http://www.youtube.com/watch?v=67GKiK3iFr0 "")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/67GKiK3iFr0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 _Figures used in this blog post are created on Adobe Illustrator based on the free vector graphics provided by [fullvector](https://www.freepik.com/fullvector) and from [Freepik](https://www.freepik.com) team, and original work by [July Gerard](https://www.behance.net/gerardjuly) via [Behance](https://www.behance.net)._
