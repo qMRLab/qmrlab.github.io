@@ -98,10 +98,10 @@ post_class: post-template
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-            {% if page.previous.url && !page.previous.hidden %}
+            {% if page.previous.url && !!page.previous.hidden %}
             <a class="prev d-block col-md-6" href="{{ site.baseurl }}{{ page.previous.url }}"> &laquo; {{page.previous.title}}</a>
             {% endif %}
-            {% if page.next.url && !page.next.hidden%}
+            {% if page.next.url && !!page.next.hidden%}
             <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}{{ page.next.url }}">{{page.next.title}} &raquo; </a>
             {% endif %}
             <div class="clearfix"></div>
