@@ -17,11 +17,7 @@ Quantitative Magnetic Resonance Imaging (qMRI) produces an arsenal of parameters
 
 At their core, all qMRI methods share a common methodology: a numerical recipe (_qRecipe_) that relates a set of parametrically linked MR images (_qData_) to some microstructural and physical features. Bringing multidisciplinary expertise together, MRI scientists develop new _qData_ acquisition protocols and _qRecipes_ to advance what we can measure with MRI today.
 
-<<<<<<< HEAD
 To make it easy to share _qRecipes_, we developed qMRLab, an open-source software that aims to bring quantitative MRI under one umbrella. To learn about the technical details of qMRLab, please read [our poster from this year’s annual ISMRM meeting](assets/images/qMRLab_ISMRM.pdf). If you find the abstract too dense, then have an alternative explanation in a more lay language: [Every MR Image is a Symphony, Every qMRI map is an instrument](http://qmrlab.org/jekyll/2018/10/02/magnetic_moments.html).
-=======
-To make it easy to share _qRecipes_, we developed qMRLab, an open-source software that aims to bring quantitative MRI under one umbrella. To learn about the technical details of qMRLab, please read [our poster from this year’s annual ISMRM meeting](assets/images/qMRLab_ISMRM.pdf). If you find the abstract too dense, then have an alternative explanation in a more lay language: [Every MR Image is a Symphony, Every qMRI map is an instrument](http://qmrlab.org/jekyll/2018/10/02/hello-world.html).
->>>>>>> master
 
 ![alt text]({{ site.baseurl }}/assets/images/Post1_Fig3.png)
 
