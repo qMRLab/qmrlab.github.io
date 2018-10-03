@@ -68,6 +68,7 @@
     @media only screen and (max-width: 768px) {
     .trans3d { display: none !important; }
     #home-pc { display: none !important; }
+    .bg-img { background-image: url('{{ site.baseurl }}/assets/images/disk.png'); }
     .home-wrapper { display: block !important; }
 }
 
@@ -85,6 +86,10 @@
 
       _::-webkit-full-page-media, _:future, :root #home-pc {
         display: none !important;
+      }
+
+      _::-webkit-full-page-media, _:future, :root .bg-img {
+        background-image: url('{{ site.baseurl }}/assets/images/disk.png');
       }
 
       _::-webkit-full-page-media, _:future, :root #download-top {
