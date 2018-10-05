@@ -511,6 +511,16 @@ Author: yaminncco
   bottom: -37vh;
 }
 
+@media (max-width: 480px) {
+  #scroll-d { bottom: -37vh; }
+}
+@media (min-width: 480px) and  (max-width: 768px){
+  #scroll-d { bottom: -16vh; }
+}
+@media (min-width: 768px){
+  #scroll-d { bottom: -45vh; }
+}
+
 @media only screen and (max-width: 768px) {
   #home { height: 86vh; }
   }
