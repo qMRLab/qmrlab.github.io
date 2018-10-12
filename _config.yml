@@ -4,7 +4,7 @@ description: "Quantitative MRI under one umbrella"
 meta_description: "qMRLab - Quantitative MRI under one umbrella"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
-baseurl: 'http://qmrlab.org'
+baseurl: 'https://qmrlab.org'
 google_analytics: 'UA-116897577-1'
 disqus: 'qmrlab'
 
