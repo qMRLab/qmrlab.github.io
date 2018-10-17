@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "T1 mapping series: Inversion Recovery"
+title:  "Relaxometry Series: Inversion Recovery"
 author: Mathieu
 categories: [ jekyll ]
 image: assets/images/t1_temp.png
