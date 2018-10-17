@@ -21,7 +21,7 @@ A Jupyter Notebook version of this blog post is also available through MyBinder,
 
 <p>
 
-<b> For best the user experience, we recommend using a laptop or a desktop computer instead of a mobile device while reading interactive blog posts.</b>
+<b> For best user experience, we recommend using a laptop or a desktop computer instead of a mobile device while reading interactive blog posts.</b>
 
 </p>
 
