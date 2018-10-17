@@ -10,9 +10,10 @@ featured: true
 hidden: true
 ---
 
+<div style="text-align: justify"> 
 This is an interactive blog post is powered by <a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>, and can be viewed below. Most figure are interactive – you can play with the by hovering your mouse over the data, zooming in (click and drag) and out (double click), moving the slider, and changing the drop-down options. To view the code that was used to generate the figures in this blog post, hover your cursor in the top left of the frame below that contains that contains the blog contents and click the checkbox "All cells" in the popup that appears.
 
 A Jupyter Notebook version of this blog post is also available throught MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/irblog?filepath=ir_blog%2FInversionRecovery.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the blog post below.
-
+</div> 
 
 <iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/InversionRecovery_testing.html" width="100%" height="5000px" style="border:none;"></iframe>
