@@ -10,7 +10,11 @@ hidden: true
 ---
 
 <div style="text-align: justify"> 
+<p>
+
 This is an interactive blog post is powered by <a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>, and can be viewed below. Most figure are interactive and powered by <a href="https://plot.ly/python/" target="_blank">Plotly</a> – you can play with the by hovering your mouse over the data, zooming in (click and drag) and out (double click), moving the slider, and changing the drop-down options. To view the code that was used to generate the figures in this blog post, hover your cursor in the top left of the frame below that contains that contains the blog contents and click the checkbox "All cells" in the popup that appears.
+
+</p>
 
 <p>
 
