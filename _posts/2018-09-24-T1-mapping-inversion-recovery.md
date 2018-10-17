@@ -19,6 +19,13 @@ A Jupyter Notebook version of this blog post is also available through MyBinder,
 
 </p>
 
+<p>
+
+<b> For best the user experience, we recommend using a laptop or a desktop computer instead of a mobile device while reading interactive blog posts.</b>
+
+</p>
+
+
 </div> 
 
-<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/InversionRecovery_testing.html" width="100%" height="5000px" style="border:none;"></iframe>
+<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/InversionRecovery_testing.html" width="100%" height="8000px" style="border:none;"></iframe>
