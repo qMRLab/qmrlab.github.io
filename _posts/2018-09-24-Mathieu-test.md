@@ -66,4 +66,4 @@ The simplicity of the signal model described by Eq. 3, both in its equation and 
 </b>
 </center>
 </div>
-<iframe frameborder="0" scrolling="no" src="//plot.ly/~TommyBoshkovski/14.embed"></iframe>
+<iframe frameborder="0" style="object-fit: fill" scrolling="no" src="//plot.ly/~TommyBoshkovski/14.embed"></iframe>
