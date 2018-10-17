@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "T<sub>1</sub> mapping series: Inversion Recovery"
+title:  "T1 mapping series: Inversion Recovery"
 author: Mathieu
 categories: [ jekyll ]
 image: assets/images/t1_temp.png
