@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "T1 mapping: Inversion Recovery"
+title:  "T<sub>1</sub> mapping series: Inversion Recovery"
 author: Methieau
 author: Mathieau
 categories: [ jekyll ]
@@ -28,4 +28,4 @@ A Jupyter Notebook version of this blog post is also available through MyBinder,
 
 </div> 
 
-<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/InversionRecovery_testing.html" width="100%" height="8000px" style="border:none;"></iframe>
+<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/InversionRecovery_testing.html" width="100%" height="9000px" style="border:none;"></iframe>
