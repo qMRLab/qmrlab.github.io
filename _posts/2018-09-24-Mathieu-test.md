@@ -29,13 +29,10 @@ Widely considered the gold standard for T<sub>1</sub> mapping, the inversion rec
 <p>
 <center><img src="ir_pulsesequences.png" style="width:640px;height:auto;"></center>
 
-<center> <h2 style="font-family:timesnewroman;font-size:30px">Signal Modelling</h2> </center>
+#Signal Modelling
 
-<div class=blog_body>
-<p style="text-align:justify;">
-The steady-state longitudinal magnetization of an inversion recovery experiment can be derived from the Bloch equations for the pulse sequence {θ<sub>180</sub> – TI – θ<sub>90</sub> – (TR-TI)}, and is given by:
-
-</p>
+The steady-state longitudinal magnetization of an inversion recovery experiment can be derived from the Bloch equations for the pulse sequence
+{θ<sub>180</sub> – TI – θ<sub>90</sub> – (TR-TI)}, and is given by:
 
 <p style="text-align:justify;">
 <center><img src="equation1.png" style="width:auto;height:50px;margin-bottom: 50px;margin-top: 50px;"></center>
@@ -68,4 +65,8 @@ The simplicity of the signal model described by Eq. 3, both in its equation and 
 <a name="fig1" style="color:black;">Figure 1.</a>  Pulse sequence of an inversion recovery experiment.
 </b>
 </center>
+</div>
+<div>
+  <a href="https://plot.ly/~TommyBoshkovski/14/?share_key=pwAi81a3WEFjBFh3BqOXKM" target="\_blank" title="basic-line" style="display: block; text-align: center;"><img src="https://plot.ly/~TommyBoshkovski/14.png?share_key=pwAi81a3WEFjBFh3BqOXKM" alt="basic-line" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="TommyBoshkovski:14" sharekey-plotly="pwAi81a3WEFjBFh3BqOXKM" src="https://plot.ly/embed.js" async></script>
 </div>
