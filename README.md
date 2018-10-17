@@ -1,6 +1,6 @@
 # qMRLab website
 
-This public repository contains all the material for publishing the qMRLab website (http://www.qmrlab.org/). Commits merged to this repository will trigger an automated build to generate html pages to be published. For detailed information please visit [here](https://pages.github.com/).
+This public repository contains all the material for publishing the qMRLab website (https://qmrlab.org/). Commits merged to this repository will trigger an automated build to generate html pages to be published. For detailed information please visit [here](https://pages.github.com/).
 
 ## For content contributors
 
