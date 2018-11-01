@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Relaxometry Series: Inversion Recovery Twitter thread"
+title:  "Twitter thread: Relaxometry Series: Inversion Recovery"
 author: Mathieu
 categories: [ jekyll ]
 image: assets/images/t1_temp.png
