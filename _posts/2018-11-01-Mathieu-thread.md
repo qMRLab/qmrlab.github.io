@@ -23,6 +23,9 @@ Last week we posted an interactive tutorial about <a href="https://qmrlab.org/je
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <article class="container">
 <header class="row t-header">
 <div class="col-12">
@@ -57,8 +60,7 @@ Twitter thread from @_mattboud #ISMRM
 Mathieu Boudreau
 </span>
 <span class="screenName"><a href="https://threadreaderapp.com/user/_mattboud">@_mattboud</a></span>
-<a href="https://twitter.com/_mattboud" target="_blank" class="button button-follow">Follow</a>
-<a href="https://twitter.com/_mattboud/status/1054727874119385088" class="button button-twitter" target="_blank">Read&nbsp;on&nbsp;Twitter</a>
+<a href="https://twitter.com/_mattboud" target="_blank" class="button button-follow">Follow</a><a href="https://twitter.com/_mattboud/status/1054727874119385088" class="button button-twitter" target="_blank">Read on Twitter</a>
 </div>
 </div>
 </div>
@@ -143,21 +145,18 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 </div>
 </div>
 </div>
-<div class="row t-user-2">
+<div class="row t-user">
 <div class="col-12">
 <div class="box-user clearfix">
 <div class="avatar">
 <img src="https://threadreaderapp.com/images/avatars/1947889093.jpg" alt="Profile picture">
 </div>
 <div>
-
 <span class="username">
 Mathieu Boudreau
 </span>
 <span class="screenName"><a href="https://threadreaderapp.com/user/_mattboud">@_mattboud</a></span>
-<a href="https://twitter.com/_mattboud" target="_blank" class="button button-follow">Follow</a>
-<a href="https://twitter.com/_mattboud/status/1054727874119385088" class="button button-twitter" target="_blank">Read&nbsp;on&nbsp;Twitter</a>
-</div>
+<a href="https://twitter.com/_mattboud" target="_blank" class="button button-follow">Follow</a><a href="https://twitter.com/_mattboud/status/1054727874119385088" class="button button-twitter" target="_blank">Read on Twitter</a>
 </div>
 </div>
 </div>
