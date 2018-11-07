@@ -76,7 +76,7 @@ Mathieu Boudreau
 <br />
 Even if qMRI isn't your thing - it has a lot of cool technical features under the hood that might interest you.<br />
 <br />
-<a class="entity-url" data-preview="true" href="https://qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html">qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html</a> <span class="entity-image"><a href="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg" target="_blank"><img alt="" src="/images/1px.png" data-src="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg"></a></span></div>
+<a class="entity-url" data-preview="true" href="https://qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html">qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html</a> <span class="entity-image"><a href="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg" target="_blank"><img alt="" src="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg" data-src="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg"></a></span></div>
 </div>
 </div>
 <div class="row t-tweet">
@@ -127,7 +127,7 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_11" class="content-tweet allow-preview">11/13 Another cool thing about this setup is that the setup uses <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a>, allowing us to use multiple kernels (i.e. programming languages) within the same notebook. The data can be transferred between them, which is how I made <a class="entity-mention" href="https://twitter.com/plotlygraphs">@plotlygraphs</a> using <a class="entity-mention" href="https://twitter.com/GnuOctave">@GnuOctave</a> code <span class="entity-image"><a href="https://pbs.twimg.com/media/DqMjBqkWsAE-T7x.jpg" target="_blank"><img alt="" src="/images/1px.png" data-src="https://pbs.twimg.com/media/DqMjBqkWsAE-T7x.jpg"></a></span></div>
+<div id="tweet_11" class="content-tweet allow-preview">11/13 Another cool thing about this setup is that the setup uses <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a>, allowing us to use multiple kernels (i.e. programming languages) within the same notebook. The data can be transferred between them, which is how I made <a class="entity-mention" href="https://twitter.com/plotlygraphs">@plotlygraphs</a> using <a class="entity-mention" href="https://twitter.com/GnuOctave">@GnuOctave</a> code <span class="entity-image"><a href="https://pbs.twimg.com/media/DqMjBqkWsAE-T7x.jpg" target="_blank"><img alt="" src="https://pbs.twimg.com/media/DqMjBqkWsAE-T7x.jpg" data-src="https://pbs.twimg.com/media/DqMjBqkWsAE-T7x.jpg"></a></span></div>
 </div>
 </div>
 <div class="row t-tweet">
