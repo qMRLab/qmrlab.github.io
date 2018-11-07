@@ -76,7 +76,7 @@ Mathieu Boudreau
 <br />
 Even if qMRI isn't your thing - it has a lot of cool technical features under the hood that might interest you.<br />
 <br />
-<a class="entity-url" data-preview="true" href="https://qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html">qmrlab.org/jekyll/2018/10…</a> <span class="entity-image"><a href="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg" target="_blank"><img alt="" src="/images/1px.png" data-src="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg"></a></span></div>
+<a class="entity-url" data-preview="true" href="https://qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html">qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html</a> <span class="entity-image"><a href="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg" target="_blank"><img alt="" src="/images/1px.png" data-src="https://pbs.twimg.com/media/DqMXxFYVsAE12R-.jpg"></a></span></div>
 </div>
 </div>
 <div class="row t-tweet">
@@ -86,37 +86,38 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_3" class="content-tweet allow-preview">3/13 On the front-end side, the tutorial includes several interactive figures, made possible thanks to <a class="entity-mention" href="https://twitter.com/plotlygraphs">@plotlygraphs</a>. These allow you to see in your browser how the plotted curves behaves when you change a parameter: <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMigGEWsAQvY0g.jpg"><source src="https://video.twimg.com/tweet_video/DqMigGEWsAQvY0g.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMigGEWsAQvY0g.jpg"></video></span></div>
+<div id="tweet_3" class="content-tweet allow-preview">3/13 On the front-end side, the tutorial includes several interactive figures, made possible thanks to <a class="entity-mention" href="https://twitter.com/plotlygraphs">@plotlygraphs</a>. These allow you to see in your browser how the plotted curves behaves when you change a parameter: <span class="entity-video-gif">
+![alt text]({{site.baseurl}}/assets/images/t1blog_fig3_interaction.gif)</span></div>
 </div>
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_4" class="content-tweet allow-preview">4/13 You can also view the values of the curves directly: <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMii7sW4AAhNrt.jpg"><source src="https://video.twimg.com/tweet_video/DqMii7sW4AAhNrt.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMii7sW4AAhNrt.jpg"></video></span></div>
+<div id="tweet_4" class="content-tweet allow-preview">4/13 You can also view the values of the curves directly: <span class="entity-video-gif">![alt text]({{site.baseurl}}/assets/images/t1blog_fig3_interaction.gif)</span></div>
 </div>
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_5" class="content-tweet allow-preview">5/13 ... and view the different raw images that were used for the fitting to produce the final result/map: <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMim4qX0AQDLig.jpg"><source src="https://video.twimg.com/tweet_video/DqMim4qX0AQDLig.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMim4qX0AQDLig.jpg"></video></span></div>
+<div id="tweet_5" class="content-tweet allow-preview">5/13 ... and view the different raw images that were used for the fitting to produce the final result/map: <span class="entity-video-gif">![alt text]({{site.baseurl}}/assets/images/t1blog_brain_interaction.gif)</span></div>
 </div>
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_6" class="content-tweet allow-preview">6/13 Thanks to a nifty feature of <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a>, the code used to generate the data used in the interactive figures of the blog post can also be viewed on that same page with the click of a button: <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMird1XQAAHelj.jpg"><source src="https://video.twimg.com/tweet_video/DqMird1XQAAHelj.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMird1XQAAHelj.jpg"></video></span></div>
+<div id="tweet_6" class="content-tweet allow-preview">6/13 Thanks to a nifty feature of <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a>, the code used to generate the data used in the interactive figures of the blog post can also be viewed on that same page with the click of a button: <span class="entity-video-gif">![alt text]({{site.baseurl}}/assets/images/t1blog_code_turn_on.gif)</span></div>
 </div>
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_7" class="content-tweet allow-preview">7/13 ... all the <a class="entity-mention" href="https://twitter.com/qmrlab">@qMRLab</a> &amp; <a class="entity-mention" href="https://twitter.com/GnuOctave">@GnuOctave</a> / <a class="entity-mention" href="https://twitter.com/MATLAB">@MATLAB</a> code will then appear above the figures: <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMiwTaXcAAVvhQ.jpg"><source src="https://video.twimg.com/tweet_video/DqMiwTaXcAAVvhQ.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMiwTaXcAAVvhQ.jpg"></video></span></div>
+<div id="tweet_7" class="content-tweet allow-preview">7/13 ... all the <a class="entity-mention" href="https://twitter.com/qmrlab">@qMRLab</a> &amp; <a class="entity-mention" href="https://twitter.com/GnuOctave">@GnuOctave</a> / <a class="entity-mention" href="https://twitter.com/MATLAB">@MATLAB</a> code will then appear above the figures: <span class="entity-video-gif">![alt text]({{site.baseurl}}/assets/images/t1blog_code.gif)</span></div>
 </div>
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_8" class="content-tweet allow-preview">8/13 The entire blog post was generated using <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a> &amp; <a class="entity-mention" href="https://twitter.com/ProjectJupyter">@ProjectJupyter</a> – the self-contained Jupyter Notebook is hosted on <a class="entity-mention" href="https://twitter.com/github">@github</a> here: <a class="entity-url" data-preview="true" href="https://github.com/qMRLab/t1_notebooks">github.com/qMRLab/t1_note…</a> – feel free to leave any feedback/technical questions there.</div>
+<div id="tweet_8" class="content-tweet allow-preview">8/13 The entire blog post was generated using <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a> &amp; <a class="entity-mention" href="https://twitter.com/ProjectJupyter">@ProjectJupyter</a> – the self-contained Jupyter Notebook is hosted on <a class="entity-mention" href="https://twitter.com/github">@github</a> here: <a class="entity-url" data-preview="true" href="https://github.com/qMRLab/t1_notebooks">github.com/qMRLab/t1_notebooks</a> – feel free to leave any feedback/technical questions there.</div>
 </div>
 </div>
  <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_9" class="content-tweet allow-preview">9/13 Even better though, you can view the Jupyter Notebook in your browser using our <a class="entity-mention" href="https://twitter.com/Docker">@Docker</a> setup with <a class="entity-mention" href="https://twitter.com/mybinderteam">@mybinderteam</a> here: <a class="entity-url" data-preview="true" href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=ir_blog%2FInversionRecovery.ipynb">mybinder.org/v2/gh/qMRLab/t…</a> <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMi3gzWkAE5tMk.jpg"><source src="https://video.twimg.com/tweet_video/DqMi3gzWkAE5tMk.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMi3gzWkAE5tMk.jpg"></video></span></div>
+<div id="tweet_9" class="content-tweet allow-preview">9/13 Even better though, you can view the Jupyter Notebook in your browser using our <a class="entity-mention" href="https://twitter.com/Docker">@Docker</a> setup with <a class="entity-mention" href="https://twitter.com/mybinderteam">@mybinderteam</a> here: <a class="entity-url" data-preview="true" href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=ir_blog%2FInversionRecovery.ipynb">mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=ir_blog%2FInversionRecovery.ipynb</a> <span class="entity-video-gif">![alt text]({{site.baseurl}}/assets/images/t1blog_jupyter.gif)</span></div>
 </div>
 </div>
 <div class="row t-tweet">
@@ -131,7 +132,7 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_12" class="content-tweet allow-preview">12/13 If you feel keen into doing something similar for your own work – feel free to fork the repo and use it as a template: <a class="entity-url" data-preview="true" href="https://github.com/qMRLab/t1_notebooks">github.com/qMRLab/t1_note…</a>. The HTML used for the blog is generated directly from the <a class="entity-mention" href="https://twitter.com/ProjectJupyter">@ProjectJupyter</a> notebook thanks to <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a> with a few clicks: <span class="entity-video-gif"><video autoplay loop controls poster="https://pbs.twimg.com/tweet_video_thumb/DqMjewhXcAAQeEo.jpg"><source src="https://video.twimg.com/tweet_video/DqMjewhXcAAQeEo.mp4" type="video/mp4"><img alt="" src="https://pbs.twimg.com/tweet_video_thumb/DqMjewhXcAAQeEo.jpg"></video></span></div>
+<div id="tweet_12" class="content-tweet allow-preview">12/13 If you feel keen into doing something similar for your own work – feel free to fork the repo and use it as a template: <a class="entity-url" data-preview="true" href="https://github.com/qMRLab/t1_notebooks">github.com/qMRLab/t1_notebooks</a>. The HTML used for the blog is generated directly from the <a class="entity-mention" href="https://twitter.com/ProjectJupyter">@ProjectJupyter</a> notebook thanks to <a class="entity-mention" href="https://twitter.com/ScriptOfScripts">@ScriptOfScripts</a> with a few clicks: <span class="entity-video-gif">![alt text]({{site.baseurl}}/assets/images/t1blog.gif)</video></span></div>
 </div>
 </div>
 <div class="row t-tweet">
@@ -141,7 +142,7 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 </div>
 <div class="row t-tweet">
 <div class="col-12">
-<div id="tweet_14" class="content-tweet allow-preview">14/13 Also, this project was supported by the Canadian Open Neuroscience Platform <a class="entity-mention" href="https://twitter.com/NeuroLibre">@NeuroLibre</a> – keep an eye out for more cool stuff coming out of CONP in the future ! <a class="entity-url" data-preview="true" href="http://conp.ca/en/platform-du-canadian-neuroscience-ouvert/">conp.ca/en/platform-du…</a></div>
+<div id="tweet_14" class="content-tweet allow-preview">14/13 Also, this project was supported by the Canadian Open Neuroscience Platform <a class="entity-mention" href="https://twitter.com/NeuroLibre">@NeuroLibre</a> – keep an eye out for more cool stuff coming out of CONP in the future ! <a class="entity-url" data-preview="true" href="http://conp.ca/en/platform-du-canadian-neuroscience-ouvert/">conp.ca/en/platform-du-canadian-neuroscience-ouvert/</a></div>
 </div>
 </div>
 </div>
