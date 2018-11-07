@@ -152,9 +152,9 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 <img src="https://threadreaderapp.com/images/avatars/1947889093.jpg" alt="Profile picture">
 </div>
 <div>
-<a href="#" data-toggle="modal" data-target="#embedModal" class="button button-embed hide-mobile">Embed</a>
+
 <span class="username">
-<a href="https://threadreaderapp.com/user/_mattboud">Mathieu Boudreau</a>
+Mathieu Boudreau
 </span>
 <span class="screenName"><a href="https://threadreaderapp.com/user/_mattboud">@_mattboud</a></span>
 <a href="https://twitter.com/_mattboud" target="_blank" class="button button-follow">Follow</a>
@@ -165,6 +165,3 @@ Even if qMRI isn't your thing - it has a lot of cool technical features under th
 </div>
 </div>
 </article>
-
-</body>
-</html>
