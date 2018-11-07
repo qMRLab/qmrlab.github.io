@@ -162,4 +162,3 @@ Mathieu Boudreau
 </div>
 </div>
 </div>
-</article>
