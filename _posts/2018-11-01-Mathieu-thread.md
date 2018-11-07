@@ -59,7 +59,9 @@ Two weeks ago we posted an interactive tutorial about <a href="https://qmrlab.or
 Mathieu Boudreau
 </span>
 <span class="screenName"><a href="https://threadreaderapp.com/user/_mattboud">@_mattboud</a></span>
-<a href="https://twitter.com/_mattboud" target="_blank" class="fa fa-twitter">Follow @_mattboud</a><a href="https://twitter.com/_mattboud/status/1054727874119385088" class="fa fa-twitter" target="_blank">Read on Twitter</a>
+<a href="https://twitter.com/_mattboud?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @_mattboud</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://twitter.com/_mattboud/status/1054727874119385088" class="twitter-follow-button" target="_blank">Read on Twitter</a>
 </div>
 </div>
 </div>
