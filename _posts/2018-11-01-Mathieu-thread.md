@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Twitter thread: Relaxometry Series: Inversion Recovery"
+title:  "Unrolled Twitter thread on Inversion Recovery"
 author: Tommy
 categories: [ jekyll ]
 image: assets/images/t1_temp.png
-excerpt: Widely considered the gold standard for T1 mapping, the inversion recovery technique estimates T1 values by fitting the signal recovery curve acquired at different delays after an inversion pulse (180°). In a typical inversion recovery experiment (Figure 1), the magnetization at thermal equilibrium is inverted using a 180° RF pulse.
+excerpt:
 featured: true
 hidden: true
 ---
@@ -16,7 +16,7 @@ hidden: true
 
 
 
-Two weeks ago we posted an interactive tutorial about <a href="https://qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html">inversion recovery T1 mapping </a>. There are many hidden features in this post, so we created a Twitter thread to help you look under the hood.
+Two weeks ago we posted an interactive tutorial about <a href="https://qmrlab.org/jekyll/2018/10/23/T1-mapping-inversion-recovery.html">inversion recovery T1 mapping </a>. There are many hidden features in this post, so we created a <a href="https://twitter.com/_mattboud/status/1054727874119385088"> Twitter thread</a> to help you look under the hood.
 <br />
 <br />
 <br />
@@ -31,7 +31,6 @@ Two weeks ago we posted an interactive tutorial about <a href="https://qmrlab.or
 <div class="col-12">
 
 <h1 class="content-header content-tweet">
-Twitter thread from @_mattboud #ISMRM
 </h1>
 </div>
 </header>
@@ -60,7 +59,7 @@ Twitter thread from @_mattboud #ISMRM
 Mathieu Boudreau
 </span>
 <span class="screenName"><a href="https://threadreaderapp.com/user/_mattboud">@_mattboud</a></span>
-<a href="https://twitter.com/_mattboud" target="_blank" class="button button-follow">Follow</a><a href="https://twitter.com/_mattboud/status/1054727874119385088" class="button button-twitter" target="_blank">Read on Twitter</a>
+<a href="https://twitter.com/_mattboud" target="_blank" class="fa fa-twitter">Follow @_mattboud</a><a href="https://twitter.com/_mattboud/status/1054727874119385088" class="fa fa-twitter" target="_blank">Read on Twitter</a>
 </div>
 </div>
 </div>
