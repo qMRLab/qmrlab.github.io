@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unrolled twitter thread: Inversion Recovery T1 mapping"
+title:  "A bird's-eye view of Inversion Recovery T1 mapping interactive tutorial"
 author: Tommy
 categories: [ jekyll ]
 image: assets/images/twitter_thread.png
