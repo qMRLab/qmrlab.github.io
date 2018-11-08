@@ -3,7 +3,7 @@ layout: post
 title:  "Unrolled twitter thread: Inversion Recovery T1 mapping"
 author: Tommy
 categories: [ jekyll ]
-image: assets/images/t1_temp.png
+image: assets/images/twitter_thread.png
 excerpt:
 featured: true
 hidden: true
