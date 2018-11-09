@@ -6,7 +6,7 @@ categories: [ jekyll ]
 image: assets/images/twitter_thread.png
 excerpt:
 featured: true
-hidden: true
+hidden: false
 ---
 
 <style>
