@@ -4,7 +4,7 @@ title:  "A bird's-eye view of Inversion Recovery T1 mapping interactive tutorial
 author: Tommy
 categories: [ jekyll ]
 image: assets/images/twitter_thread.png
-excerpt:
+excerpt: Two weeks ago we posted an interactive tutorial about inversion recovery T1 mapping. There are many hidden features in this post, so we created a Twitter thread to help you look under the hood.
 featured: true
 hidden: false
 ---
