@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A bird's-eye view of Inversion Recovery T1 mapping interactive tutorial"
+title:  "A bird's-eye view of the inversion recovery T1 mapping interactive tutorial"
 author: Tommy
 categories: [ jekyll ]
 image: assets/images/twitter_thread.png
