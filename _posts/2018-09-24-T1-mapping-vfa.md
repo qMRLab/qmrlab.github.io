@@ -18,7 +18,7 @@ Below is an interactive tutorial about variable T<sub>1</sub> mapping that is po
 
 <p>
 
-A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=ir_blog%2FInversionRecovery.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data using qMRLab in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/blog_vfa?filepath=vfa_blog%2FVariableFlipAngle.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data using qMRLab in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
 
 </p>
 
