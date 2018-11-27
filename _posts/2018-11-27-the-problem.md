@@ -20,5 +20,5 @@ There is a common saying that identifying the problem is half the solution. Yet,
 
 Bottom line, lack of standardization is the flat tire of qMRI.
 
-PREVIOUS: [Hello World!](https://qmrlab.org/jekyll/2018/10/02/hello-world.html)
-NEXT: The Solution
+<center> PREVIOUS: [Hello World!](https://qmrlab.org/jekyll/2018/10/02/hello-world.html)
+    NEXT: The Solution </center>
