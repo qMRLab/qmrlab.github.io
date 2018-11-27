@@ -12,7 +12,7 @@ hidden: false
 <div style="text-align: justify"> 
 <p>
 
-Below is an interactive tutorial about variable T<sub>1</sub> mapping that is powered by <a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>. Most figures are generated with <a href="https://plot.ly/python/" target="_blank">Plot.ly</a> – you can play with them by hovering your mouse over the data, zooming in (click and drag) and out (double click), moving the sliders, and changing the drop-down options. To view the code that was used to generate the figures in this blog post, hover your cursor in the top left corner of the frame that contains the tutorial and click the checkbox "All cells" in the popup that appears.
+Below is an interactive tutorial about variable flip angle (VFA) T<sub>1</sub> mapping that is powered by <a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>. Most figures are generated with <a href="https://plot.ly/python/" target="_blank">Plot.ly</a> – you can play with them by hovering your mouse over the data, zooming in (click and drag) and out (double click), moving the sliders, and changing the drop-down options. To view the code that was used to generate the figures in this blog post, hover your cursor in the top left corner of the frame that contains the tutorial and click the checkbox "All cells" in the popup that appears.
 
 </p>
 
