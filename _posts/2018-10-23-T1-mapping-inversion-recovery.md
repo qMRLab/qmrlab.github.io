@@ -24,7 +24,7 @@ A Jupyter Notebook version of this blog post is also available through MyBinder,
 
 <p>
 
-This work was supported by the <a href="http://conp.ca" target="_blank">Canadian Open Neuroscience Platform (CONP)</a> initiative and <a href="https://www.rbiq-qbin.qc.ca/" target="_blank">Quebec Bio-Imaging Network (QBIN)</a>
+This work was supported by the <a href="http://conp.ca" target="_blank">Canadian Open Neuroscience Platform (CONP)</a> initiative and <a href="https://www.rbiq-qbin.qc.ca/" target="_blank">Quebec Bio-Imaging Network (QBIN)</a>.
 
 </p>
 
