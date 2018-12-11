@@ -3,7 +3,7 @@ layout: post
 title:  "Relaxometry Series: Variable Flip Angle"
 author: Mathieu
 categories: [ jekyll ]
-image: assets/images/t1_temp.png
+image: assets/images/vfa_t1.png
 excerpt: Variable flip angle (VFA) T1 mapping (Christensen et al. 1974; Gupta 1977; Fram et al. 1987), also known as Driven Equilibrium Single Pulse Observation of T1 (DESPOT1) (Homer & Beevers 1985; Deoni et al. 2003), is a rapid quantitative T1 measurement technique that is widely used to acquire 3D T1 maps (e.g. whole-brain)
 featured: true
 hidden: false
@@ -18,7 +18,13 @@ Below is an interactive tutorial about variable flip angle (VFA) T<sub>1</sub> m
 
 <p>
 
-A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/blog_vfa?filepath=vfa_blog%2FVariableFlipAngle.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data using qMRLab in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=vfa_blog%2FVariableFlipAngle.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data using qMRLab in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+
+</p>
+
+<p>
+
+This work was supported by the <a href="http://conp.ca" target="_blank">Canadian Open Neuroscience Platform (CONP)</a> initiative and <a href="https://www.rbiq-qbin.qc.ca/" target="_blank">Quebec Bio-Imaging Network (QBIN)</a>
 
 </p>
 
