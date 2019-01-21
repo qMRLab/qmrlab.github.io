@@ -9,9 +9,8 @@ featured: true
 hidden: true
 ---
 
+On November 15 the <a href="https://www.sciencedirect.com/journal/neuroimage/vol/182">Neuroimage special issue on microstructure</a> was officially out. Two years in the making, the special issue collected 39 scientific articles by the leaders in the field. In the weeks following the special issue publication, we decided to do a social media experiment: For every paper we tweeted a brief summary and a key figure from the article. With 300+ retweets, 500+ likes and 1000+ link clicks, our social media blitz attracted significant attention from the microstructural imaging community. 100,000 Twitter impressions later, we compiled all those tweets on this page, providing readers with a unique snapshot of the state of the art in the field of microstructure circa 2019.
 
-Recently, NeuroImage published a special issue on microstructure. The idea of creating this special issue was born after the workshop "Toward a Super-Big Brain: Promises & Pitfalls of Microstructural Imaging" organized by the Quebec Bio-Imaging Network, held in Montreal from 3-5 August 2016.
-This special issue contains 39 scientific articles encompassing both comprehensive reviews and original research. For the past month, we have been tweeting about the articles, and we decided to collect all the tweets in one place to summarize this special issue.
 
 
 <a class="twitter-timeline" data-chrome="noheader nofooter" href="https://twitter.com/TommyBoshkovski/timelines/1075416015763320832?ref_src=twsrc%5Etfw">Tweets on the NeuroImage special issue on microstructure</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
