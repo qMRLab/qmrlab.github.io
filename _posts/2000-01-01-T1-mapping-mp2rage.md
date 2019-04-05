@@ -3,8 +3,8 @@ layout: post
 title:  "Relaxometry Series: MP2RAGE
 image: assets/images/vfa_t1.png
 excerpt: Dictionary-based MRI techniques capable of generating T1 maps are increasing in popularity, due to their growing availability on clinical scanners, rapid scan times, and fast post-processing computation time, thus making quantitative T1 mapping accessible for clinical applications. Generally speaking, dictionary-based
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 <div style="text-align: justify"> 
