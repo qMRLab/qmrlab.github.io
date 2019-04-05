@@ -2,9 +2,9 @@
 layout: post
 title:  "Relaxometry Series: MP2RAGE
 image: assets/images/vfa_t1.png
-excerpt: Variable flip angle (VFA) T1 mapping (Christensen et al. 1974; Gupta 1977; Fram et al. 1987), also known as Driven Equilibrium Single Pulse Observation of T1 (DESPOT1) (Homer & Beevers 1985; Deoni et al. 2003), is a rapid quantitative T1 measurement technique that is widely used to acquire 3D T1 maps (e.g. whole-brain)
+excerpt: Dictionary-based MRI techniques capable of generating T1 maps are increasing in popularity, due to their growing availability on clinical scanners, rapid scan times, and fast post-processing computation time, thus making quantitative T1 mapping accessible for clinical applications. Generally speaking, dictionary-based
 featured: true
-hidden: True
+hidden: true
 ---
 
 <div style="text-align: justify"> 
@@ -21,7 +21,7 @@ Just like previous tutorials, most figures are generated with <a href="https://p
 
 <p>
 
-A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=vfa_blog%2FVariableFlipAngle.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data using qMRLab in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/blog_mp2rage?filepath=mp2rage_blog%2FMP2RAGE.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data using qMRLab in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
 
 </p>
 
@@ -40,4 +40,4 @@ This work was supported by the <a href="http://conp.ca" target="_blank">Canadian
 
 </div> 
 
-<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/vfa/VariableFlipAngle.html" width="100%" height="11500px" style="border:none;"></iframe>
+<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/mp2rage/MP2RAGE.html" width="100%" height="11500px" style="border:none;"></iframe>
