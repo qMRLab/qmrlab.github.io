@@ -10,7 +10,7 @@ hidden: true
 <div style="text-align: justify">
 <p>
 
-Below is a tutorial on T<sub>1𝞺</sub> mapping. Unlike our previous posts in our relaxometry series, . If you would like to contribute T<sub>1𝞺</sub> mapping code as a qMRLab feature, we invite readers to fork our repo and <a href="https://github.com/qMRLab/qMRLab/issues" target="_blank">open an issue</a> or <a href="https://github.com/qMRLab/qMRLab/pulls">pull request</a> with the relevant details of your contribution!
+Below is a tutorial on T<sub>1𝞺</sub> mapping. Unlike our previous posts in our relaxometry series, the figures in this post are not interactive. If you would like to contribute T<sub>1𝞺</sub> mapping code as a qMRLab feature, we invite readers to fork our repo and <a href="https://github.com/qMRLab/qMRLab/issues" target="_blank">open an issue</a> or <a href="https://github.com/qMRLab/qMRLab/pulls">pull request</a> with the relevant details of your contribution!
 
 </p>
 
