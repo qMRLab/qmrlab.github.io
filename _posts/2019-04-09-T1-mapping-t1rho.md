@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Relaxometry Series: T<sub>1𝞺</sub>"
-image: assets/images/t1rho.png
+image: assets/images/T1rho.png
 excerpt: T1 relaxation time at clinical fields (1.5 or 3 T) probes the molecular motional processes in the MHz range (e.g. 64 or 128 MHz. To measure such processes in the kHz range, while still performing the experiment at clinical fields, we can use T1𝞺 relaxation (Redfield 1955). In a T1𝞺 relaxation experiment, a spin-lock pulse, ω1, is applied
 featured: false
 hidden: true
