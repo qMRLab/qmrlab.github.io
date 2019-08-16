@@ -11,7 +11,7 @@ hidden: true
 <div style="text-align: justify"> 
 <p>
 
-Being involved in several open source projects (<a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>, <a href="https://github.com/neuropoly/axondeepseg" target="_blank">AxonDeepSeg</a>) and initiatives dealing with open science in publishing (<a href="http://neurolibre.conp.ca" target="_blank">NeuroLibre</a>, Canadian Open Neuroscience Platform), I was curious to know what the current landscape of open source software/analysis sharing was in my own field - MR engineering for medical applications. I decided to investigate what the landscape of open source sharing was in one of the main journals of my field, Magnetic Resonance in Medicine (MRM). Note that this isn’t a scientific study in itself, it was just a mini side project that evolved out of curiosity.
+Being involved in several open source projects (<a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>, <a href="https://github.com/neuropoly/axondeepseg" target="_blank">AxonDeepSeg</a>) and initiatives dealing with open science in publishing (<a href="http://neurolibre.conp.ca" target="_blank">NeuroLibre</a>, Canadian Open Neuroscience Platform), I was curious to know what the current landscape of open source software/analysis sharing was in my own field - MR engineering for medical applications. I decided to investigate what the landscape of open source sharing was in one of the main journals of my field, Magnetic Resonance in Medicine<a href="#footnote-1"><sup>1</sup></a> (MRM). Note that this isn’t a scientific study in itself, it was just a mini side project that evolved out of curiosity.
 
 </p>
 
@@ -84,6 +84,9 @@ Only 12% of papers appear to have shared enough to reproduce paper figures, and 
 
 <p>
 Overall, I think that what this analysis showed most is that at the moment, our field could benefit from defining a certain level of standards when sharing code/data/scripts in papers, as it appears to be handled on a paper-by-paper basis. This applies to standards regarding where the code/data is hosted (so as to avoid broken links), in reporting which languages & tools are used (e.g. code testing, continuous integration, notebooks), and in reporting how much or what is shared (only code? only example data? enough to reproduce figures?). I think defining these kinds of standards would set a higher bar for authors to aim for when sharing code, which would benefit their long term research and the field as a whole. The ideal scenario, if possible, would be to reach a point where people share not only code and data, but also scripts and containers that can completely reproduce all the figures from their papers at the click of a button.
+</p>
+
+<p id="footnote-1" style="font-size:70%;"><sup>1</sup> Not a financial conflict of interest, but for the past four years I have been a regular contributor to a science journalism initiative associated with this journal, MRM Highlights.
 </p>
 
 </div> 
