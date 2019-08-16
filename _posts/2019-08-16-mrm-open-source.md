@@ -3,9 +3,9 @@ layout: post
 title:  "On the open source landscape of MRM"
 author: Mathieu
 image: assets/images/qmrlab.png
-excerpt: Most studies that use B1 maps do not use the raw maps; instead, they are typically filtered during a pre-processing step to reduce effects like noise and minor artifact, as the B1 distribution in tissue is expected to be a smoothly varying function. However, there appears to be no clear community consensus 
-featured: false
-hidden: true
+excerpt: Being involved in several open source projects (qMRLab, AxonDeepSeg) and initiatives dealing with open science in publishing (NeuroLibre, Canadian Open Neuroscience Platform), I was curious to know what the current landscape of open source software/analysis sharing was in my own field - MR engineering for medical applications.
+featured: true
+hidden: false
 ---
 
 <div style="text-align: justify"> 
