@@ -20,10 +20,10 @@ Being involved in several open source projects (<a href="https://github.com/neur
 The broad questions that I was interested in were the following:
 
 <ol>
-    <li> What % of MRM papers claim to share code/data/scripts ?
-    <li> If they share code, what coding languages do they use ?
-    <li> Where do they typically host their code/data ?
-    <li> What’s the completeness of what they shared (e.g. ranging from being able to reproduce paper figures to never having delivered on their promise to share their code).
+    <li> What % of MRM papers claim to share code/data/scripts ? </li>
+    <li> If they share code, what coding languages do they use ? </li>
+    <li> Where do they typically host their code/data ? </li>
+    <li> What’s the completeness of what they shared (e.g. ranging from being able to reproduce paper figures to never having delivered on their promise to share their code). </li>
 </ol>
 
 </p>
@@ -34,11 +34,11 @@ The broad questions that I was interested in were the following:
 
 <p>
 <ul>
-    <li> Downloaded all papers published in Magnetic Resonance in Medicine from January to November 2019 (December issue not out yet).
-    <li> Ran <a href="https://drive.google.com/file/d/18ISwiCmh1IVsLToFX-9SiFAYU92OhbdD/view" target="_blank">a script</a> to search for all papers that contained one of a list of keywords that may hint at containing open-source code/data
-    <li> Compiled all the papers that matched keywords into a <a href="https://docs.google.com/spreadsheets/d/162YoF-tsJHcua2xgZ84AvY7sH4B3SBYAwimxSl9jWi8/edit?usp=sharing" target="_blank">Google Sheet file</a>.
-    <li> Manually looked in each paper to see if code/data was actually shared.
-    <li> Parsed through these and the external links to see if they (1) shared code/data/scripts, (2) see which languages the codes used, and (3) where they hosted their code/data/scripts.
+    <li> Downloaded all papers published in Magnetic Resonance in Medicine from January to November 2019 (December issue not out yet). </li>
+    <li> Ran <a href="https://drive.google.com/file/d/18ISwiCmh1IVsLToFX-9SiFAYU92OhbdD/view" target="_blank">a script</a> to search for all papers that contained one of a list of keywords that may hint at containing open-source code/data. </li>
+    <li> Compiled all the papers that matched keywords into a <a href="https://docs.google.com/spreadsheets/d/162YoF-tsJHcua2xgZ84AvY7sH4B3SBYAwimxSl9jWi8/edit?usp=sharing" target="_blank">Google Sheet file</a>. </li>
+    <li> Manually looked in each paper to see if code/data was actually shared. </li>
+    <li> Parsed through these and the external links to see if they (1) shared code/data/scripts, (2) see which languages the codes used, and (3) where they hosted their code/data/scripts. </li>
 </ul>
 </p>
 
