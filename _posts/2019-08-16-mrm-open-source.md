@@ -87,7 +87,7 @@ Overall, I think that what this analysis showed most is that at the moment, our 
 </p>
 
 <p id="footnote-1"></p>
-<p> a </p> <p> a </p> <p> a </p> <p> a </p>
+<p> </p> <p> </p> <p> </p> <p> </p>
 <p style="font-size:70%;">
 <sup>1</sup> Not a financial conflict of interest, but for the past four years I have been a regular contributor to a science journalism initiative associated with this journal, MRM Highlights.
 </p>
