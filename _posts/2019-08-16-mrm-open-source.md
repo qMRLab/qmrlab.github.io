@@ -11,7 +11,7 @@ hidden: false
 <div style="text-align: justify"> 
 <p>
 
-Being involved in several open source projects (<a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>, <a href="https://github.com/neuropoly/axondeepseg" target="_blank">AxonDeepSeg</a>) and initiatives dealing with open science in publishing (<a href="http://neurolibre.conp.ca" target="_blank">NeuroLibre</a>, Canadian Open Neuroscience Platform), I was curious to know what the current landscape of open source software/analysis sharing was in my own field - MR engineering for medical applications. I decided to investigate what the landscape of open source sharing was in one of the main journals of my field, Magnetic Resonance in Medicine<a href="#footnote-1"><sup>1</sup></a> (MRM). Note that this isn’t a scientific study in itself, it was just a mini side project that evolved out of curiosity.
+Being involved in several open source projects (<a href="https://github.com/neuropoly/qMRLab" target="_blank">qMRLab</a>, <a href="https://github.com/neuropoly/axondeepseg" target="_blank">AxonDeepSeg</a>) and initiatives dealing with open science in publishing (<a href="http://neurolibre.conp.ca" target="_blank">NeuroLibre</a>, <a href="https://conp.ca" target="_blank">Canadian Open Neuroscience Platform</a>), I was curious to know what the current landscape of open source software/analysis sharing was in my own field - MR engineering for medical applications. I decided to investigate what the landscape of open source sharing was in one of the main journals of my field, Magnetic Resonance in Medicine<a href="#footnote-1"><sup>1</sup></a> (MRM). Note that this isn’t a scientific study in itself, it was just a mini side project that evolved out of curiosity.
 
 </p>
 
