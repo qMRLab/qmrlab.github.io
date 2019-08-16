@@ -47,7 +47,7 @@ The broad questions that I was interested in were the following:
 </p>
 
 <p>
-<center><img src="assets/images/mrm_1.png"></center>
+<center><img src="http://qmrlab.org/assets/images/qmrlab.png"></center>
 </p>
 
 </div> 
