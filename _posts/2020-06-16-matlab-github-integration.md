@@ -2,7 +2,7 @@
 layout: post
 title:  "Dockerize your MATLAB software with automatic GitHub integrations"
 author: Agah
-image: {{ site.baseurl }}/assets/images/p13-1.jpeg
+image: assets/images/p13-1.jpeg
 excerpt: Would you like to Dockerize your MATLAB software with automatic GitHub integrations? Or perhaps you want to run your tests in MATLAB on every change to your codebase, but feel that your hands are tied by proprietary license? Then this one's for you!
 featured: false
 hidden: true
