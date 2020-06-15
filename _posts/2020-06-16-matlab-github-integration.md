@@ -5,7 +5,7 @@ author: Agah
 image: assets/images/p13-1.jpeg
 excerpt: Would you like to Dockerize your MATLAB software with automatic GitHub integrations? Or perhaps you want to run your tests in MATLAB on every change to your codebase, but feel that your hands are tied by proprietary license? Then this one's for you!
 featured: false
-hidden: true
+hidden: false
 ---
 
 
@@ -32,7 +32,7 @@ Many routine DevOps services such as continuous integration (CI) or building and
 
 
 <figure class="image">
-  <img src="{{ site.baseurl }}/assets/images/p13-3.jpeg" alt="{{ image_tooltip }}">
+  <img src="{{ site.baseurl }}/assets/images/p13-3.jpeg" alt="image_tooltip">
   <figcaption>Compiling MATLAB code just to see if a commit push breaks functionality is not canny at all (left panel). It is not even fair to call this a “test”. Besides you can only achieve this on a Ubuntu machine. Whereas making your code Octave compatible (right panel) will go a long way.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Restart your computer.
 
 
 <figure class="image">
-  <img src="{{ site.baseurl }}/assets/images/p13-5.jpeg" alt="{{ image_tooltip }}">
+  <img src="{{ site.baseurl }}/assets/images/p13-5.jpeg" alt="image_tooltip">
   <figcaption>Example Azure DevOps organization, named 'neuropoly'. The organization has two repositories to manage: 'qMRLab' and 'shimming-toolbox'.</figcaption>
 </figure>
  
