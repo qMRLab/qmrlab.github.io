@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Dockerize your MATLAB software with automatic GitHub integrations"
+title:  "Continuous Integration and Delivery with MATLAB"
 author: Agah
 image: assets/images/p13-1.jpeg
-excerpt: Would you like to Dockerize your MATLAB software with automatic GitHub integrations? Or perhaps you want to run your tests in MATLAB on every change to your codebase, but feel that your hands are tied by proprietary license? Then this one's for you!
+excerpt: Would you like to run your tests in MATLAB on every change to your codebase? Or perhaps you want to build and Dockerize your MATLAB software with automatic GitHub integrations, but feel that your hands are tied by proprietary license? Then this one's for you!
 featured: false
 hidden: false
 ---
 
 
-Would you like to Dockerize your MATLAB software with automatic GitHub integrations? Or perhaps you want to run your tests in MATLAB on every change to your codebase, but feel that your hands are tied by proprietary license? Then this one's for you!
+Would you like to run your tests in MATLAB on every change to your codebase? Or perhaps you want to build and Dockerize your MATLAB software with automatic GitHub integrations, but feel that your hands are tied by proprietary license? Then this one's for you!
 
 
 ![alt_text]({{ site.baseurl }}/assets/images/p13-1.jpeg "image_tooltip")
@@ -124,6 +124,7 @@ Almost there! It is finally time to configure a pipeline for our repository:
 3. Select GitHub, then select a repository. If your repositories are not listed, check your project’s `Service connections`.
 ![alt_text]({{ site.baseurl }}/assets/images/p13-12.jpeg "image_tooltip")
 4. Select starter pipeline. This will open an editor to configure a YAML file for your project. In this YAML file, we will assign `pool` to `Default`: <br />
+
 ```
 trigger:
 - azure-pipelines
@@ -137,6 +138,7 @@ Pool: 'Default'
  displayName: 'Unit Tests'
 
 ``` 
+
 5. Click `Save and Run`. This will open a window to ask where to save `azure-pipelines.yml` file in your repository. Select 'Create a new branch for this commit' and make sure that branch name is `azure-pipelines`, as we set the trigger for this branch only (temporarily):<br />
 ![alt_text]({{ site.baseurl }}/assets/images/p13-13.jpeg "image_tooltip")<br />
 6. Save and run! When you visit pipelines as you did in step-1 of this section, you should see a new job appear:
@@ -145,6 +147,7 @@ Pool: 'Default'
 ![alt_text]({{ site.baseurl }}/assets/images/p13-15.jpeg "image_tooltip")
 8. Well, you did it! Now edit `azure-pipelines.yml` file to change trigger branch from `azure-pipelines` to `master`:
 9. 
+
 ```
 trigger:
    - master
