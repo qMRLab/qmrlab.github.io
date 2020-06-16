@@ -5,7 +5,7 @@ author: Agah
 image: assets/images/p13-1.jpeg
 excerpt: Would you like to Dockerize your MATLAB software with automatic GitHub integrations? Or perhaps you want to run your tests in MATLAB on every change to your codebase, but feel that your hands are tied by proprietary license? Then this one's for you!
 featured: false
-hidden: true
+hidden: false
 ---
 
 
@@ -73,108 +73,57 @@ In Azure’s glossary runners are called “agents” and we will be setting up 
 
 
 1. A decent computer (OSX, Ubuntu or Windows) that you can maintain. In our lab, we have some machines running 24/7 and I am using one of them. Just ensure that it is accessible when you need it. 
-2. MATLAB must be installed on this computer and **added to the system path**. 
-**Osx**
-Add the executable to the `~/.bash_profile` as an alias. For example:
-
-matlab="/Applications/MATLAB_R2018b.app/bin/matlab"
-
-**Win**
-
-System->Advanced System Settings->Advanced (tab)->Environment variables
-
-Click the variable Path, then click Edit
-
-Click New and add the absolute bath to the root file 
-  `C:\Program Files\MATLAB\R2018b\bin `
-
-Save and exit, then restart your computer. 
-	
-**Ubuntu**
-
-There are several ways to [add a directory to system PATH in Ubuntu](https://askubuntu.com/questions/60218/how-to-add-a-directory-to-the-path#:~:text=To%20set%20it%20system%20wide,bash_profile%20.). One option is to add your directory to the /etc/environment. Open a terminal and:
-
-**PATH=$PATH:/usr/local/MATLAB/R2018/bin**
-
-**source /etc/environmet && export PATH**
-
-Restart your computer.
-
-
-
+2. MATLAB must be installed on this computer and **added to the system path**. <br />
+**Osx**<br />
+Add the executable to the `~/.bash_profile` as an alias. For example:<br />
+matlab="/Applications/MATLAB_R2018b.app/bin/matlab"<br />
+**Win**<br />
+System->Advanced System Settings->Advanced (tab)->Environment variables<br />
+Click the variable Path, then click Edit<br />
+Click New and add the absolute bath to the root file <br />
+`C:\Program Files\MATLAB\R2018b\bin `<br />
+Save and exit, then restart your computer. <br />
+**Ubuntu** <br />
+There are several ways to [add a directory to system PATH in Ubuntu](https://askubuntu.com/questions/60218/how-to-add-a-directory-to-the-path#:~:text=To%20set%20it%20system%20wide,bash_profile%20.). One option is to add your directory to the /etc/environment. Open a terminal and: <br />
+**PATH=$PATH:/usr/local/MATLAB/R2018/bin** <br />
+**source /etc/environmet && export PATH**<br />
+Restart your computer.<br />
 3. Open a terminal and test if `matlab -nojvm -nodesktop` command starts a command-line matlab session. 
 4. You must have a GitHub account that has write permissions to a GitHub repo with the MATLAB code
 5. The repository should also contain tests. To write your tests, you can use [MATLAB’s testing framework](https://www.mathworks.com/help/matlab/matlab-unit-test-framework.html) and/or [MOxUnit framework](https://github.com/MOxUnit/MOxUnit), which is Octave compatible.
 6. Create an account on [https://dev.azure.com/](https://dev.azure.com/), then create an **organization**. You may want to give your organization a generic name, such as your lab’s name, e.g. neuropoly. 
 7. Create a **public project** in your organization. Your project can have the same name as the GitHub repository, e.g. qmrlab.
-
-
 <figure class="image">
   <img src="{{ site.baseurl }}/assets/images/p13-5.jpeg" alt="image_tooltip">
   <figcaption>Example Azure DevOps organization, named 'neuropoly'. The organization has two repositories to manage: 'qMRLab' and 'shimming-toolbox'.</figcaption>
 </figure>
- 
-
-8. Setup a self-hosted agent. At the bottom of the project column on the left, you will see the 'Organization Settings' button. In the Pipelines section, click 'Agent Pools':
-
-
+8. Setup a self-hosted agent. At the bottom of the project column on the left, you will see the 'Organization Settings' button. In the Pipelines section, click 'Agent Pools':<br />
 ![alt_text]({{ site.baseurl }}/assets/images/p13-6.jpeg "image_tooltip")
-
-select the Default:
-
-
+select the Default:<br />
 ![alt_text]({{ site.baseurl }}/assets/images/p13-7.jpeg "image_tooltip")
- 
-click the 'New agent' button.
+click the 'New agent' button.<br />
 9. Your operating system will be detected and Azure will guide you through the necessary steps to download, create and configure the [agent software](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml) on your computer. 
-10. Run the agent! The necessary commands will change depending on your OS. **In Ubuntu**, I prefer running the agent as a systemd service:
-
-`cd ~/myagent$`
-`sudo ./svc.sh install`
-`sudo ./svc.sh start`
-
-
-11. Visit [https://dev.azure.com/your_org_name](https://dev.azure.com/your_org_name), then check Organization Settings -> Pipelines -> Agent Pools -> Default and confirm that the agent is online:
-
-
+10. Run the agent! The necessary commands will change depending on your OS. **In Ubuntu**, I prefer running the agent as a systemd service:<br />
+`cd ~/myagent$`<br />
+`sudo ./svc.sh install`<br />
+`sudo ./svc.sh start`<br />
+11. Visit [https://dev.azure.com/your_org_name](https://dev.azure.com/your_org_name), then check Organization Settings -> Pipelines -> Agent Pools -> Default and confirm that the agent is online: <br />
 ![alt_text]({{ site.baseurl }}/assets/images/p13-8.jpeg "image_tooltip")
-
-
-That’s all! Now let’s associate our public GitHub repository with a project under the organization:
-
-
-
-
+That’s all! Now let’s associate our public GitHub repository with a project under the organization: <br />
 1. Select a project, and click the Project Settings at the bottom of the column on the left.
-2. Under the `Pipelines` section, click `Service Connections` and click `New service connection`:
-
-
-![alt_text]({{ site.baseurl }}/assets/images/p13-9.jpeg "image_tooltip")
-
+2. Under the `Pipelines` section, click `Service Connections` and click `New service connection`:<br />
+![alt_text]({{ site.baseurl }}/assets/images/p13-9.jpeg "image_tooltip")<br />
 3. Select GitHub on the list. Select `AzurePipelines` from the OAuth configuration dropdown menu. 
 4. If you are already logged in to your GitHub account, it will direct you to the authorization page. You can grant access for your personal account or, for an organization if you have the necessary admin privileges. 
 
 Almost there! It is finally time to configure a pipeline for our repository:
-
-
 1. Select pipelines
-
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-10.jpeg "image_tooltip")
-
 2. Click `New pipeline`
-
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-11.jpeg "image_tooltip")
-
 3. Select GitHub, then select a repository. If your repositories are not listed, check your project’s `Service connections`.
-
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-12.jpeg "image_tooltip")
-
-4. Select starter pipeline. This will open an editor to configure a YAML file for your project. In this YAML file, we will assign `pool` to `Default`:
-
-
+4. Select starter pipeline. This will open an editor to configure a YAML file for your project. In this YAML file, we will assign `pool` to `Default`: <br />
 ```
 trigger:
 - azure-pipelines
@@ -187,28 +136,19 @@ Pool: 'Default'
    echo Successfully run my first MATLAB CI!
  displayName: 'Unit Tests'
 
-```
-
-
-
-5. Click `Save and Run`. This will open a window to ask where to save `azure-pipelines.yml` file in your repository. Select 'Create a new branch for this commit' and make sure that branch name is `azure-pipelines`, as we set the trigger for this branch only (temporarily):
-
-
-![alt_text]({{ site.baseurl }}/assets/images/p13-13.jpeg "image_tooltip")
-
+``` 
+5. Click `Save and Run`. This will open a window to ask where to save `azure-pipelines.yml` file in your repository. Select 'Create a new branch for this commit' and make sure that branch name is `azure-pipelines`, as we set the trigger for this branch only (temporarily):<br />
+![alt_text]({{ site.baseurl }}/assets/images/p13-13.jpeg "image_tooltip")<br />
 6. Save and run! When you visit pipelines as you did in step-1 of this section, you should see a new job appear:
-
-
-![alt_text]({{ site.baseurl }}/assets/images/p13-14.jpeg "image_tooltip")
-
-7. If it is has been completed successfully, you should see the output from MATLAB:
-
-
+![alt_text]({{ site.baseurl }}/assets/images/p13-14.jpeg "image_tooltip")<br />
+7. If it is has been completed successfully, you should see the output from MATLAB:<br />
 ![alt_text]({{ site.baseurl }}/assets/images/p13-15.jpeg "image_tooltip")
-
 8. Well, you did it! Now edit `azure-pipelines.yml` file to change trigger branch from `azure-pipelines` to `master`:
-9. `trigger: \
-- master`
+9. 
+```
+trigger:
+   - master
+```
 10. Merge the Pull Request (`azure-pipelines` → `master`). From now on, the pipeline will be triggered each time you push a commit to the `master`. See details regarding [how to specify jobs in your pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml) and configure your file for CI. 
 
 Note: Do not forget to add `quit;` or `exit();` at the end of your MATLAB/Octave calls in your YAML configuration. Otherwise the job will hang in an idle state. 
@@ -229,25 +169,13 @@ If the pipeline you set has no security policies to guard against executions upo
 
 
 1. Go to your Azure DevOps project, open the Pipelines section (as in the step-1 above), locate your pipeline and select Edit. Click the [...] button and select triggers.
-
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-16.jpeg "image_tooltip")
-
 2. Select Pull request validation under the Triggers tab
-
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-17.jpeg "image_tooltip")
-
 3. Make sure that `Build pull requests from forks of this repository` is **unchecked.**
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-18.jpeg "image_tooltip")
-
 4. Take extra measures
-
-
 ![alt_text]({{ site.baseurl }}/assets/images/p13-19.jpeg "image_tooltip")
-
-
 It is a good development practice to add [protection rules](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) to your `master` branch on GitHub. You can prevent anyone (including yourself) from pushing to the `master` branch. This leaves pull requests as the only option to do changes on your branch, hence the only way to trigger your Azure pipeline. You can check the `Require a team member’s comment before building a pull request` option and enable it on all pull requests. This way, workflows will only execute when someone from your team controls the files changed, ensuring that there are no suspicious changes on `azure-pipelines.yml` and adding a comment to the PR. 
 
 
@@ -263,29 +191,3 @@ There is more! Recently Remi Gau ([@RemiGau](https://twitter.com/RemiGau?ref_src
 MATLAB runtime may be proprietary, but not necessarily your development practices. There are ways to make applications developed in MATLAB freely available, including a graphical user interface (GUI). The important question is, can we ship them systematically? 
 
 In a follow up post, I will explain how to use [Azure Release Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/release/?view=azure-devops) to automatically compile a MATLAB application, build a Docker image that can run it using freely available Compiler Runtimes, and push the built image to DockerHub with the exact version tag of your release.
-
-
-## Release pipeline
-
-
-
-12. Put a file named version.txt to the base of your repository and keep it up-to-date with the latest Git tag of your repository (see the example [version.txt](https://github.com/qMRLab/qMRLab/blob/master/version.txt)). Don’t worry if you don’t know what a git tag is, I’ll briefly introduce it. If you don’t know how to version your software, [semantic versioning](https://semver.org/) is a good resource.  
-13. [Sign up for DockerHub](https://hub.docker.com/signup) and [create an organization](http://dockerdocs.gclearning.cn/docker-hub/orgs/) with the same name as your software.  
-14. [Sign up for Open Science Framework](https://osf.io/register). 
-15. [Install Anaconda ](https://docs.anaconda.com/anaconda/install/)on the computer. If you have python and [pip](https://pip.pypa.io/en/stable/installing/) already installed, you can skip to the next step.
-16. [Install osfclient](https://github.com/osfclient/osfclient#installing) by running `pip install osfclient` in your terminal. 
-
- 
-
-
-## Security concerns 
-
-Talk about build triggers from fork. PR on command OR disable totally. 
-
-When deploying Docker after login on MS hosted runner, credentials will be hosted unencrypted a `~/.docker/config.json` → do not forget to docker logout after you’re done 
-
-Build vs release. 
-
-Deploying Azure agent via Docker (not sure how this plays out with the matlab license, but that Docker image would be GIANT anyway, not desirable). Only feasible if somehow azure agent is granted access to the host deamon bypassing docker gateway.
-
- 
