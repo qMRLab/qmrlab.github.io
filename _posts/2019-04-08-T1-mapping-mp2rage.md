@@ -22,7 +22,7 @@ Just like previous tutorials, most figures are generated with <a href="https://p
 
 <p>
 
-A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/blog_mp2rage?filepath=mp2rage_blog%2FMP2RAGE.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/qMRLab/t1_notebooks/master?filepath=mp2rage_blog%2FMP2RAGE.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by <a href="https://vatlab.github.io/sos-docs/" target="_blank">Script of Scripts (SoS)</a>, allowing us to process the data in MATLAB/Octave and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
 
 </p>
 
