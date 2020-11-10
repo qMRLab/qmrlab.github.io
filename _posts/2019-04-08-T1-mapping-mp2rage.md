@@ -41,4 +41,4 @@ This work was supported by the <a href="http://conp.ca" target="_blank">Canadian
 
 </div> 
 
-<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/mp2rage/MP2RAGE.html" width="100%" height="8300px" style="border:none;"></iframe>
+<iframe src="https://s3.ca-central-1.amazonaws.com/qmrlab-blogs/mp2rage/MP2RAGE.html" width="100%" height="8500px" style="border:none;"></iframe>
