@@ -37,6 +37,14 @@ authors:
     web: https://tommyboshkovski.wixsite.com/index
     twitter: https://twitter.com/TommyBoshkovski
     description: "Author"
+  Juan:
+    name: Juan Velázquez-Reyes
+    display_name: Juan Velázquez-Reyes
+    gravatar: fcf1e8d3a2717cf25e8ff0c2bd99b9a5
+    email: velazquezrj2012@licifug.ugto.mx
+    git_name: jvelazquez-reyes
+    twitter: https://twitter.com/juan_velrey
+    description: "Author"
 
 # Plugins
 plugins:
