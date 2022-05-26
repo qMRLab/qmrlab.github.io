@@ -39,10 +39,8 @@ This work was supported by the <a href="http://conp.ca" target="_blank">Canadian
 In the following video tutorial, Mathieu Boudreau presented at the ISMRM 2022 the qMT-SPGR using the Graphical User Interface powered by <a href="https://github.com/qMRLab" target="_blank">qMRLab</a>.
 </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=V3LMOTuwMs4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+
 </div> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=V3LMOTuwMs4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p>
 
 <iframe src="https://qmrlab-blogs.s3.ca-central-1.amazonaws.com/qmt/qMTSPGR.html" width="100%" height="9600px" style="border:none;"></iframe>
