@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quantitative Magnetization Transfer Series: qMT using Spoiled Gradient echo"
-author: Juan & Mathieu
+author: Juan
 categories: [ jekyll ]
 image: assets/images/qmt_temp.png
 excerpt: Interactive tutorial about quantitative Magnetization Transfer mapping. The qMT using spoiled gradient echo (qMT-SPGR) is introduced with qMT theory, signal modelling and data fitting.
@@ -36,7 +36,7 @@ This work was supported by the <a href="http://conp.ca" target="_blank">Canadian
 
 <p></p>
 <p>
-In the following video tutorial, Mathieu Boudreau presented at the ISMRM 2022 the qMT-SPGR using the Graphical User Interface powered by <a href="https://github.com/qMRLab" target="_blank">qMRLab</a>.
+In the following video tutorial, Mathieu Boudreau presented at the ISMRM 2022 the qMT-SPGR module powered by <a href="https://github.com/qMRLab" target="_blank">qMRLab</a> and using the Graphical User Interface.
 </p>
 
 <p style="text-align:center">
@@ -45,4 +45,4 @@ In the following video tutorial, Mathieu Boudreau presented at the ISMRM 2022 th
   
 </div> 
 
-<iframe src="https://qmrlab-blogs.s3.ca-central-1.amazonaws.com/qmt/qMTSPGR.html" width="100%" height="13000px" style="border:none;"></iframe>
+<iframe src="https://qmrlab-blogs.s3.ca-central-1.amazonaws.com/qmt/qMTSPGR.html" width="100%" height="16000px" style="border:none;"></iframe>
