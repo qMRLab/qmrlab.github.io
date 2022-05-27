@@ -18,7 +18,7 @@ Below is an interactive tutorial about quantitative Magnetization Transfer mappi
 
 <p>
 
-A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/jvelazquez-reyes/qMT_tutorial-ISMRM2022/master?labpath=qMT.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by qMRLab in Octave to process the data and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/jvelazquez-reyes/qMT_tutorial-ISMRM2022/main" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by qMRLab in Octave to process the data and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
 
 </p>
 
@@ -39,8 +39,10 @@ This work was supported by the <a href="http://conp.ca" target="_blank">Canadian
 In the following video tutorial, Mathieu Boudreau presented at the ISMRM 2022 the qMT-SPGR using the Graphical User Interface powered by <a href="https://github.com/qMRLab" target="_blank">qMRLab</a>.
 </p>
 
+<p style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V3LMOTuwMs4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+</p>
   
 </div> 
 
-<iframe src="https://qmrlab-blogs.s3.ca-central-1.amazonaws.com/qmt/qMTSPGR.html" width="100%" marginwidth="5" height="9600px" style="border:none;"></iframe>
+<iframe src="https://qmrlab-blogs.s3.ca-central-1.amazonaws.com/qmt/qMTSPGR.html" width="100%" height="13000px" style="border:none;"></iframe>
