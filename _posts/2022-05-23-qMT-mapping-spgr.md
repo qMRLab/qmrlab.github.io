@@ -18,7 +18,7 @@ Below is an interactive tutorial about quantitative magnetization transfer (qMT)
 
 <p>
 
-A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/jvelazquez-reyes/qMT_tutorial-ISMRM2022/main" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by qMRLab in Octave to process the data and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
+A Jupyter Notebook version of this blog post is also available through MyBinder, and can be viewed <a href="https://mybinder.org/v2/gh/jvelazquez-reyes/qMT_tutorial-ISMRM2022/main?filepath=qMT.ipynb" target="_blank">here</a>. There you can modify the code, change the figures, and regenerate the html that was used to create the tutorial below. It is powered by qMRLab in Octave to process the data and plot the figures with Plot.ly using Python, all within the same Jupyter Notebook.
 
 </p>
 
