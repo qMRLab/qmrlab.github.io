@@ -3,7 +3,7 @@ layout: post
 title:  "Quantitative magnetization transfer using spoiled gradient echo"
 author: Juan
 categories: [ jekyll ]
-image: assets/images/qmt_temp.png
+image: "/assets/images/qmt_temp.png"
 excerpt: Interactive tutorial about quantitative magnetization transfer mapping. The qMT using spoiled gradient echo (qMT-SPGR) is introduced with qMT theory, signal modelling and data fitting.
 featured: true
 hidden: false
