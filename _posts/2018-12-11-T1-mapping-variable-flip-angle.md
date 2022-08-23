@@ -3,7 +3,7 @@ layout: post
 title:  "Relaxometry Series: Variable Flip Angle"
 author: Mathieu
 categories: [ jekyll ]
-image: assets/images/vfa_t1.png
+image: /assets/images/vfa_t1.png
 excerpt: Variable flip angle (VFA) T1 mapping (Christensen et al. 1974; Gupta 1977; Fram et al. 1987), also known as Driven Equilibrium Single Pulse Observation of T1 (DESPOT1) (Homer & Beevers 1985; Deoni et al. 2003), is a rapid quantitative T1 measurement technique that is widely used to acquire 3D T1 maps (e.g. whole-brain)
 featured: true
 hidden: false
