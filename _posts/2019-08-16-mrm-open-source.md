@@ -2,7 +2,7 @@
 layout: post
 title:  "On the open source landscape of MRM"
 author: Mathieu
-image: assets/images/qmrlab.png
+image: /assets/images/qmrlab.png
 excerpt: Being involved in several open source projects (qMRLab, AxonDeepSeg) and initiatives dealing with open science in publishing (NeuroLibre, Canadian Open Neuroscience Platform), I was curious to know what the current landscape of open source software/analysis sharing was in my own field - MR engineering for medical applications.
 featured: true
 hidden: false
