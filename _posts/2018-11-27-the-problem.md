@@ -3,7 +3,7 @@ layout: post
 title:  "The Problem"
 author: Agah
 categories: [ jekyll ]
-image: assets/images/the_problem.png
+image: /assets/images/the_problem.png
 excerpt: In the previous post, we briefly mentioned about the promise of qMRI in supplementing conventional MR images with objective qMaps. Now we are shifting gears to talk about "the problem".
 featured: true
 hidden: false
