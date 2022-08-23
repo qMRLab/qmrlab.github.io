@@ -3,7 +3,7 @@ layout: post
 title:  "Every MR image is a symphony, every qMRI map is an instrument"
 author: Agah
 categories: [ jekyll ]
-image: assets/images/magn_moments.png
+image: /assets/images/magn_moments.png
 featured: true
 hidden: false
 ---
