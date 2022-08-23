@@ -3,7 +3,7 @@ layout: post
 title:  "Hello world"
 author: Agah
 categories: [ jekyll ]
-image: assets/images/hello_world.png
+image: /assets/images/hello_world.png
 featured: true
 hidden: false
 ---
