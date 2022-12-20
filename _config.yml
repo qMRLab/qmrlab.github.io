@@ -45,6 +45,14 @@ authors:
     git_name: jvelazquez-reyes
     twitter: https://twitter.com/juan_velrey
     description: "Author"
+  Nadia:
+    name: Nadia Blostein
+    display_name: Nadia Blostein
+    gravatar: 38f1b71e307f8c3eb09c2719ae58bc5a
+    email: nadiablostein@gmail.com
+    git_name: NadiaBlostein
+    twitter: https://twitter.com/BlosteinNadia
+    description: "Author"
 
 # Plugins
 plugins:
