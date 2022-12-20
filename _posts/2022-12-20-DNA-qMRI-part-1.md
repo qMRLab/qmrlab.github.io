@@ -3,7 +3,6 @@ layout: post
 title:  "DNA Sequencing & qMRI Part 1: Base Pairs Are Quantitative, MRI Is Not."
 author: Nadia
 image: /assets/images/DNA_qMRI-01.png
-excerpt: Would you like to run your tests in MATLAB on every change to your codebase? Or perhaps you want to build and Dockerize your MATLAB software with automatic GitHub integrations, but feel that your hands are tied by proprietary license? Then this one's for you!
 excerpt: Quantitative magnetic resonance imaging (qMRI) is a medical imaging technique that lends itself very well to metaphors: it has previously been compared to a wide range of ideas and objects, from jelly beans and symphonic orchestras, to alphabet soups and Bento boxes.
 featured: false
 hidden: true
