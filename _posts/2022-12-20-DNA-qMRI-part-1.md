@@ -59,13 +59,8 @@ On Razib Khan's [Unsupervised Learning podcast](https://unsupervisedlearning.lib
 ## Acknowledgements.
 Essay edited by Dr. Nikola Stikov. A special thank you to Dr. Mathieu Boudreau and Dr. Agâh Karakuzu for reading drafts of this essay.
 
-## Links.
-* [qMRI & jelly beans](https://www.youtube.com/watch?v=67GKiK3iFr0)
-* [qMRI & symphonic orchestras](https://www.youtube.com/watch?v=67GKiK3iFr0)
-* [MRI vs. qMRI, or alphabet soups vs. Bento boxes](https://youtu.be/eaaHY_nl7tA?t=582)
-* [Human genome project information archive](https://web.ornl.gov/sci/techresources/Human_Genome/project/herac2.shtml)
-* [So you want to test your DNA](https://razib.substack.com/p/so-you-want-to-test-your-dna) (substack blog post by Razib Khan)
-* Erik Hoel on Razib Khan’s Razib Khan's [Unsupervised Learning podcast](https://unsupervisedlearning.libsyn.com/erik-hoel-neuroscience-is-dead-long-live-neuroscience)
+## Up next.
+Stay tuned for _DNA sequencing & qMRI: Part 2_! The analogy between genetics and MRI will continue on a more metaphorical level as we dive into the [qMRI-BIDS](https://www.nature.com/articles/s41597-022-01571-4) data standard, the development of which was led by Dr. Agâh Karakuzu.
 
 ## References
 * Amunts, K., Lepage, C., Borgeat, L., Mohlberg, H., Dickscheid, T., Rousseau, M.-É., Bludau, S., Bazin, P.-L., Lewis, L. B., Oros-Peusquens, A.-M., Shah, N. J., Lippert, T., Zilles, K., & Evans, A. C. (2013). BigBrain: an ultrahigh-resolution 3D human brain model. Science, 340(6139), 1472–1475.
