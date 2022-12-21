@@ -54,7 +54,7 @@ But what about making MRI quantitative? MRI is a versatile medical imaging techn
 
 On Razib Khan's [Unsupervised Learning podcast](https://unsupervisedlearning.libsyn.com/erik-hoel-neuroscience-is-dead-long-live-neuroscience), Erik Hoel noted that our understanding of genetics is largely due to our ability to manipulate it. In contrast, our understanding of the brain is limited by our inability to manipulate the brain in a theory-driven manner. However, the advent of qMRI has given us the ability to manipulate properties of brain tissue, making it the most advanced tool for acquiring high-resolution data that accurately reflects real-world measurements in medical imaging.
 
-<img src="{{ site.baseurl }}/assets/images/DNA_qMRI-08.png"/>**Fig. 6** – qMRI methods (left) and diagram (right) by Dr. [Agâh Karakuzu](https://agahkarakuzu.github.io/).
+<img src="{{ site.baseurl }}/assets/images/DNA_qMRI-08.png"/>**Fig. 6** – qMRI methods (left) and diagram (right) by [Dr. Agâh Karakuzu](https://agahkarakuzu.github.io/).
 
 ## Acknowledgements.
 Essay edited by Dr. Nikola Stikov. A special thank you to Dr. Mathieu Boudreau and Dr. Agâh Karakuzu for reading drafts of this essay.
