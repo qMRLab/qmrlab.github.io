@@ -2,6 +2,7 @@
 layout: post
 title:  "DNA Sequencing & qMRI Part 1: Base Pairs Are Quantitative, MRI Is Not."
 author: Nadia
+categories: [ jekyll ]
 image: /assets/images/DNA_qMRI-00-cover.png
 excerpt: "Quantitative magnetic resonance imaging (qMRI) is a medical imaging technique that lends itself very well to metaphors: it has previously been compared to a wide range of ideas and objects, from jelly beans and symphonic orchestras, to alphabet soups and Bento boxes."
 featured: false
