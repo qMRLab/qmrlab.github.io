@@ -7,10 +7,9 @@ excerpt: "Quantitative magnetic resonance imaging (qMRI) is a medical imaging te
 featured: false
 hidden: false
 ---
-
-
-
-
+  
+  
+  
 ![alt_text]({{ site.baseurl }}/assets/images/DNA_qMRI-01.png "image_tooltip")
 
 ## A conventional analogy to genetics.
