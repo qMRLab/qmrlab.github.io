@@ -57,7 +57,7 @@ On Razib Khan's [Unsupervised Learning podcast](https://unsupervisedlearning.lib
 <img src="{{ site.baseurl }}/assets/images/DNA_qMRI-08.png"/>**Fig. 6** – qMRI methods (left) and diagram (right) by Dr. [Agâh Karakuzu](https://agahkarakuzu.github.io/).
 
 ## Acknowledgements.
-Essay edited by Nikola Stikov. A special thank you to Mathieu Boudreau and Agâh Karakuzu for reading drafts of this essay.
+Essay edited by Dr. Nikola Stikov. A special thank you to Dr. Mathieu Boudreau and Dr. Agâh Karakuzu for reading drafts of this essay.
 
 ## Links.
 * [qMRI & jelly beans](https://www.youtube.com/watch?v=67GKiK3iFr0)
