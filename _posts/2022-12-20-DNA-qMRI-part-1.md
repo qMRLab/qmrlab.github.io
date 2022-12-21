@@ -27,8 +27,13 @@ The incredible advances made in the field of genetics have naturally led to a ne
 
 <figure> 
   <img src="{{ site.baseurl }}/assets/images/DNA_qMRI-03.png"/> 
-  <figcaption>**Fig. 1 – ** From the Human Genome Project [Overview Slides](https://www.genome.gov/human-genome-project).</figcaption>
+  <figcaption>"**Fig. 1 – ** From the Human Genome Project [Overview Slides](https://www.genome.gov/human-genome-project)."</figcaption>
 </figure>
+
+<img src="{{ site.baseurl }}/assets/images/DNA_qMRI-03.png"/> 
+<figcaption>"**Fig. 1 – ** From the Human Genome Project [Overview Slides](https://www.genome.gov/human-genome-project)."</figcaption>
+  
+<img src="{{ site.baseurl }}/assets/images/DNA_qMRI-03.png"/> **Fig. 1 – ** From the Human Genome Project [Overview Slides](https://www.genome.gov/human-genome-project).
 
 ## And here comes quantitative MRI.
 
