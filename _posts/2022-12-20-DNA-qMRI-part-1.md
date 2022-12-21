@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-<center> <img src="{{ site.baseurl }}/assets/images/DNA_qMRI-01.png"/> </center>
+<center> <img src="{{ site.baseurl }}/assets/images/DNA_qMRI-01.jpg"/> </center>
 
 ## A conventional analogy to genetics.
 
