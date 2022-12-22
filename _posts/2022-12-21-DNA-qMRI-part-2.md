@@ -3,7 +3,7 @@ layout: post
 title:  "The Double Helix and MRI Part 2: qMRI-BIDS"
 author: Nadia
 image: /assets/images/DNA_part_2_00.png
-excerpt: "The analogy between genetics and MRI will continue on a metaphorical level as we dive into cellular machinery and the qMRI-BIDS data standard, the development of which was led by Dr. Agâh Karakuzu."
+excerpt: "The analogy between genetics and MRI will continue on a metaphorical level as we dive into cellular machinery and the qMRI-BIDS data standard (Karakuzu et al. 2022)."
 featured: true
 hidden: false
 ---
