@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DNA Sequencing & qMRI Part 1: Base Pairs Are Quantitative, MRI Is Not."
+title:  "The Double Helix and MRI Part 1: Base Pairs Are Quantitative, MRI Is Not."
 author: Nadia
 image: /assets/images/DNA_part_1_00.png
 excerpt: "Quantitative magnetic resonance imaging (qMRI) is a medical imaging technique that lends itself very well to metaphors: it has previously been compared to a wide range of ideas and objects, from jelly beans and symphonic orchestras, to alphabet soups and Bento boxes."
@@ -60,7 +60,7 @@ On Razib Khan's [Unsupervised Learning podcast](https://unsupervisedlearning.lib
 Essay edited by Dr. Nikola Stikov. A special thank you to Dr. Mathieu Boudreau and Dr. Agâh Karakuzu for reading drafts of this essay.
 
 ## Up next.
-[DNA sequencing & qMRI: Part 2](https://qmrlab.org/2022/12/21/DNA-qMRI-part-2.html): the analogy between genetics and MRI will continue on a more metaphorical level as we dive into the [qMRI-BIDS](https://www.nature.com/articles/s41597-022-01571-4) data standard, the development of which was led by Dr. Agâh Karakuzu.
+In [The Double Helix and MRI Part 2: qMRI-BIDS](https://qmrlab.org/2022/12/21/DNA-qMRI-part-2.html), the analogy between genetics and MRI will continue on a metaphorical level as we dive into cellular machinery and the [qMRI-BIDS](https://www.nature.com/articles/s41597-022-01571-4) data standard, the development of which was led by Dr. Agâh Karakuzu.
 
 ## References
 * Amunts, K., Lepage, C., Borgeat, L., Mohlberg, H., Dickscheid, T., Rousseau, M.-É., Bludau, S., Bazin, P.-L., Lewis, L. B., Oros-Peusquens, A.-M., Shah, N. J., Lippert, T., Zilles, K., & Evans, A. C. (2013). BigBrain: an ultrahigh-resolution 3D human brain model. Science, 340(6139), 1472–1475.
