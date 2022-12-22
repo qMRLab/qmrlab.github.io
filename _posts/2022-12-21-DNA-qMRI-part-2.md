@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DNA sequencing & qMRI, part 2: But What About Data Standards?"
+title:  "DNA sequencing & qMRI, Part 2: But What About Data Standards?"
 author: Nadia
 image: /assets/images/DNA_qMRI_part2_00-min.png
 excerpt: "The analogy between genetics and MRI will continue on a more metaphorical level as we dive into the qMRI-BIDS data standard, the development of which was led by Dr. Agâh Karakuzu."
@@ -11,4 +11,4 @@ hidden: false
 
 In [part 1](https://qmrlab.org/2022/12/20/DNA-qMRI-part-1.html), we made an analogy between DNA sequencing and magnetic resonance imaging (MRI) to drive the point that despite sharing many statistical tools, geneticists and neuroimagers study fundamentally different information: genetic data stores _quantitative_ information (e.g. chain of base pairs derived from DNA sequencing), whereas conventional MRI data stores _qualitative_ information  (e.g. unitless intensity values derived from conventional MRI). To this end, quantitative MRI (qMRI) is an adaptation of MRI that enables scientists to work with the quantitative information stored in MR images _with units_. In part 2 below, we will continue the parallel between genetics and MRI on a more _metaphorical_ level.
 
-<center> <img src="{{ site.baseurl }}/assets/images/DNA_qMRI_part2_01-min" style="border: 3px #eb845f"/> </center>
+<center> <img src="{{ site.baseurl }}/assets/images/DNA_qMRI_part2_01-min.png" style="border: 3px #eb845f"/> </center>
