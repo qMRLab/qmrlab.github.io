@@ -57,7 +57,7 @@ On Razib Khan's [Unsupervised Learning podcast](https://unsupervisedlearning.lib
 <img src="{{ site.baseurl }}/assets/images/DNA_part_1_08.png"/>**Fig. 6** – qMRI methods (left) and diagram (right) by [Dr. Agâh Karakuzu](https://agahkarakuzu.github.io/).
 
 ## Acknowledgements.
-Essay edited by Dr. Nikola Stikov. A special thank you to Dr. Mathieu Boudreau and Dr. Agâh Karakuzu for reading drafts of this essay.
+Essay edited by Nikola Stikov. A special thank you to Mathieu Boudreau and Agâh Karakuzu for reading drafts of this essay. And a slightly suspicious thank you to OpenAI's infant digital monsters for their the chilling artistic and stylistic contributions.
 
 ## Up next.
 In [The Double Helix and MRI Part 2: qMRI-BIDS](https://qmrlab.org/2022/12/21/DNA-qMRI-part-2.html), the analogy between genetics and MRI will continue on a metaphorical level as we dive into cellular machinery and the [qMRI-BIDS](https://www.nature.com/articles/s41597-022-01571-4) data standard, the development of which was led by Dr. Agâh Karakuzu.
