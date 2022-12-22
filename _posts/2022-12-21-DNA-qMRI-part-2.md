@@ -55,7 +55,7 @@ Given that chat-GPT is about to replace all scientists on Earth (kidding – I p
 “ _Overall, good data standards and DNA are both essential for organizing and maintaining information, and share many important similarities. Both are critical for ensuring the accuracy and reliability of the information they store, and both are essential for facilitating communication and collaboration. Despite some differences, the comparison between good data standards and DNA is a useful way to understand the importance of good data standards in today's world.”
 
 ## Acknowledgements.
-Essay edited by Nikola Stikov. A special thank you to Mathieu Boudreau and Agâh Karakuzu for reading drafts of this essay. And a slightly suspicious thank you to OpenAI's infant digital monsters for their the chilling artistic and stylistic contributions.
+Essay edited by Nikola Stikov. A special thank you to Mathieu Boudreau and Agâh Karakuzu for reading drafts of this essay. And a slightly suspicious thank you to OpenAI's infant digital monsters for their chilling artistic and stylistic contributions.
 
 ## References.
 * Antognini, A., Nez, F., Schuhmann, K., Amaro, F. D., Biraben, F., Cardoso, J. M. R., Covita, D. S., Dax, A., Dhawan, S., Diepold, M., Fernandes, L. M. P., Giesen, A., Gouvea, A. L., Graf, T., Hänsch, T. W., Indelicato, P., Julien, L., Kao, C.-Y., Knowles, P., … Pohl, R. (2013). Proton structure from the measurement of 2S-2P transition frequencies of muonic hydrogen. Science, 339(6118), 417–420.
