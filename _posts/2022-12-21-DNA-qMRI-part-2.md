@@ -10,7 +10,7 @@ hidden: false
 
 ## Previously
 
-In [part 1](https://qmrlab.org/2022/12/20/DNA-qMRI-part-1.html), we made an analogy between DNA sequencing and magnetic resonance imaging (MRI) to drive the point that despite sharing many statistical tools, geneticists and neuroimagers study fundamentally different information: genetic data stores _quantitative_ information (e.g. chain of base pairs derived from DNA sequencing), whereas conventional MRI data stores _qualitative_ information  (e.g. unitless intensity values derived from conventional MRI). To this end, quantitative MRI (qMRI) is an adaptation of MRI that enables scientists to work with quantitative information stored in MR images _with units_. In part 2 below, we will continue the parallel between genetics and MRI on a more metaphorical level.
+In [part 1](https://qmrlab.org/2022/12/20/DNA-qMRI-part-1.html), we compared DNA sequencing to magnetic resonance imaging (MRI) to illustrate that although both fields utilize many of the same statistical techniques, they examine fundamentally distinct types of information. Genetic data contains _quantitative_ information, such as the sequence of base pairs obtained through DNA sequencing, while conventional MRI data contains _qualitative_ information, such as unitless intensity values obtained through MRI scans. To address this distinction, researchers have developed quantitative MRI (qMRI), which allows scientists to work with quantitative data output as 3D images with units. In the following section, we will continue to draw parallels between genetics and MRI, albeit on a more metaphorical level.
 
 ## But what about data standards?
 
@@ -55,7 +55,7 @@ Given that chat-GPT is about to replace all scientists on Earth (kidding – I p
 “ _Overall, good data standards and DNA are both essential for organizing and maintaining information, and share many important similarities. Both are critical for ensuring the accuracy and reliability of the information they store, and both are essential for facilitating communication and collaboration. Despite some differences, the comparison between good data standards and DNA is a useful way to understand the importance of good data standards in today's world.”
 
 ## Acknowledgements.
-Essay edited by Nikola Stikov. A special thank you to Mathieu Boudreau and Agâh Karakuzu for reading drafts of this essay.
+Essay edited by Nikola Stikov. A special thank you to Mathieu Boudreau and Agâh Karakuzu for reading drafts of this essay. And a slightly suspicious thank you to OpenAI's infant digital monsters for their the chilling artistic and stylistic contributions.
 
 ## References.
 * Antognini, A., Nez, F., Schuhmann, K., Amaro, F. D., Biraben, F., Cardoso, J. M. R., Covita, D. S., Dax, A., Dhawan, S., Diepold, M., Fernandes, L. M. P., Giesen, A., Gouvea, A. L., Graf, T., Hänsch, T. W., Indelicato, P., Julien, L., Kao, C.-Y., Knowles, P., … Pohl, R. (2013). Proton structure from the measurement of 2S-2P transition frequencies of muonic hydrogen. Science, 339(6118), 417–420.
