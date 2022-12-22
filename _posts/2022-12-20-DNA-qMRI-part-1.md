@@ -3,7 +3,7 @@ layout: post
 title:  "The Double Helix and MRI Part 1: DNA is Quantitative, MRI Is Not."
 author: Nadia
 image: /assets/images/DNA_part_1_00.png
-excerpt: "Quantitative magnetic resonance imaging (qMRI) has previously been compared to jelly beans and symphonic orchestras, alphabet soups and Bento boxes. Continuing on with this tradition, we will now compare qMRI to DNA."
+excerpt: "Quantitative MRI (qMRI) lends itself well to metaphors, from jelly beans and symphonic orchestras to alphabet soups and Bento boxes... And DNA!"
 featured: true
 hidden: false
 ---
