@@ -2,8 +2,8 @@
 layout: post
 title:  "qMRLab Standard Operating Procedures series"
 author: Mathieu
+categories: [ jekyll ]
 image: /assets/images/qmrlab.png
-excerpt: Fill in
 featured: false
 hidden: true
 ---
