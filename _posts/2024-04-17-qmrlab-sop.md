@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SOP series: qMRLab introduction and installation"
+title:  "SOP series: Introduction to qMRLab and installation"
 author: Mathieu
 categories: [ jekyll ]
 image: /assets/images/qmrlab.png
