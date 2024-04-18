@@ -60,7 +60,12 @@ Following this step, you need to ensure that a previous version of qMRLab has no
 
 <ol>
     <li>Open MATLAB.</li>
-    <li>In the Home toolbar tab, navigate to the Environment section and click Set Path.</li>
+    <li>In the <b>Home</b> toolbar tab, navigate to the <b>Environment</b> section and click <b>Set Path</b>.
+    <figure>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_1.png" alt="Step 2"></center>
+      <figcaption><i>Step 2</i>></figcaption>
+    </figure>
+    </li>
     <li>Scroll through the list of directories that are in MATLAB’s path (i.e. directories where it can “see” the files for use in your MATLAB session), and select all the ones associated with previous qMRLab installations if there are any.</li>
     <li>Click Remove.</li>
     <li>A new window will appear asking if you want to save this as default. This choice is up to you, we recommend that you click Yes but this may not be appropriate for everyone.</li>
