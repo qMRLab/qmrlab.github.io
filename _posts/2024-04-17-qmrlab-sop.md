@@ -28,30 +28,30 @@ In addition, below is a video tutorial on how to use qMRLab and many of its feat
 
 <h2>Minimum requirements</h2>
 <ul>
-    <li>MATLAB (version 2020b or earlier, see reason here)</li>
-    <li>qMRlab</li>
+    <li><a href ="https://matlab.mathworks.com">MATLAB</a> (version 2020b or earlier, see reason <a href ="https://github.com/qMRLab/qMRLab/issues/419">here</a>)</li>
+    <li><a href ="https://github.com/qMRLab/qMRLab">qMRlab</<a></li>
 </ul>
 
 <h2>Optional</h2>
 <ul>
-    <li>Python (version 3.x) - preferably installed using Anaconda or Miniconda</li>
-    <li>dcm2niix</li>
-    <li>FSL</li>
+    <li><a href ="https://www.python.org/">Python (version 3.x) - preferably installed using <a href ="https://anaconda.org">Anaconda</<a> or <<a href ="https://docs.anaconda.com/free/miniconda/index.html">Miniconda</<a></li>
+    <li><a href ="https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Download">dcm2niix</a></li>
+    <li><a href ="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation">FSL</a></li>
 </ul>
 
 
 <h1>Installing qMRLab</h1>
 
 <p>
-qMRLab [1,2] is an open-source quantitative MRI software that can be used to process a large range of quantitative MRI maps (T1, T2, MTR, MTsat, MP2RAGE, etc), and is developed mainly by the NeuroPoly Lab.
+qMRLab [1,2] is an open-source quantitative MRI software that can be used to process a large range of quantitative MRI maps (T1, T2, MTR, MTsat, MP2RAGE, etc), and is developed mainly by the <a href="http://neuro.polymtl.ca">NeuroPoly Lab</a>.
 </p>
 
 <p>
-Because it’s an open-source software, it’s continuously in development, so the packaged releases on the GitHub repository or main website may not contain the latest features needed, or may contain bugs that were since fixed.
+Because it’s an open-source software, it’s continuously in development, so the packaged releases on the <a href="https://github.com/">GitHub</a> repository or main website may not contain the latest features needed, or may contain bugs that were since fixed.
 </p>
 
 <p>
-For this project, you should download the qMRLab version linked here. It is a compressed zip file; if it doesn’t extract by itself after the download, please do so manually using the appropriate tool for your operating system and then move the qMRLab folder wherever you’d like it stored. You should also rename it to simply “qMRLab”.
+For convenience, users not already familiar with <a href="https://git-scm.com/">git</a> you should download the qMRLab version linked <a href="https://github.com/qMRLab/qMRLab/archive/refs/heads/master.zip">here</a>. It is a compressed zip file; if it doesn’t extract by itself after the download, please do so manually using the appropriate tool for your operating system and then move the qMRLab folder wherever you’d like it stored. You should also rename it to simply “qMRLab”.
 </p>
 
 <p>
@@ -104,6 +104,11 @@ Following this step, you need to ensure that a previous version of qMRLab has no
       <figcaption><i>Step 10</i></figcaption>
     </figure>  
     </li>
+</ol>
+
+<ol>
+    <li>Karakuzu A, Boudreau M, Duval T, Boshkovski T, Leppert I, Cabana J-F, et al. qMRLab: Quantitative MRI analysis, under one umbrella. J Open Source Softw. 2020;5: 2343.</li>
+    <li>Cabana J-F, Gu Y, Boudreau M, Levesque IR, Atchia Y, Sled JG, et al. Quantitative magnetization transfer imagingmadeeasy with qMTLab: Software for data simulation, analysis, and visualization. Concepts Magn Reson Part A Bridg Educ Res. 2015;44A: 263–277.</li>
 </ol>
 
 </div> 
