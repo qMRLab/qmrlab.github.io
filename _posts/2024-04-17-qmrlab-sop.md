@@ -4,8 +4,8 @@ title:  "qMRLab Standard Operating Procedures series"
 author: Mathieu
 categories: [ jekyll ]
 image: /assets/images/qmrlab.png
-featured: false
-hidden: true
+featured: true
+hidden: false
 ---
 
 <div style="text-align: justify"> 
@@ -29,12 +29,12 @@ In addition, below is a video tutorial on how to use qMRLab and many of its feat
 <h2>Minimum requirements</h2>
 <ul>
     <li><a href ="https://matlab.mathworks.com">MATLAB</a> (version 2020b or earlier, see reason <a href ="https://github.com/qMRLab/qMRLab/issues/419">here</a>)</li>
-    <li><a href ="https://github.com/qMRLab/qMRLab">qMRlab</<a></li>
+    <li><a href ="https://github.com/qMRLab/qMRLab">qMRlab<a></li>
 </ul>
 
 <h2>Optional</h2>
 <ul>
-    <li><a href ="https://www.python.org/">Python (version 3.x) - preferably installed using <a href ="https://anaconda.org">Anaconda</<a> or <<a href ="https://docs.anaconda.com/free/miniconda/index.html">Miniconda</<a></li>
+    <li><a href ="https://www.python.org/">Python (version 3.x) - preferably installed using <a href ="https://anaconda.org">Anaconda<a> or <<a href ="https://docs.anaconda.com/free/miniconda/index.html">Miniconda<a></li>
     <li><a href ="https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Download">dcm2niix</a></li>
     <li><a href ="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation">FSL</a></li>
 </ul>
