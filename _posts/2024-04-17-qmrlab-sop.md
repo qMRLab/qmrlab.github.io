@@ -68,39 +68,39 @@ Following this step, you need to ensure that a previous version of qMRLab has no
     </li>
     <li>Scroll through the list of directories that are in MATLAB’s path (i.e. directories where it can “see” the files for use in your MATLAB session), and select all the ones associated with previous qMRLab installations if there are any.
     <figure>
-      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_2.png" alt="Step 3"></center>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_2.png" alt="Step 3"></center>
       <figcaption><i>Step 3</i></figcaption>
     </figure>
     </li>
     <li>Click <b>Remove</b>.</li>
     <li>A new window will appear asking if you want to save this as default. This choice is up to you, we recommend that you click <b>Yes</b> but this may not be appropriate for everyone.
     <figure>
-      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_3.png" alt="Step 5"></center>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_3.png" alt="Step 5"></center>
       <figcaption><i>Step 5</i></figcaption>
     </figure>
     </li>
     <li>Now, open the qMRLab directory where you’ve stored it after downloading the correct version and extracting it.
     <figure>
-      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_4.png" alt="Step 6"></center>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_4.png" alt="Step 6"></center>
       <figcaption><i>Step 6</i></figcaption>
     </figure>
     </li>
     <li>In the <b>Command Window</b>, type <b>startup</b> and press <b>enter/return</b>.
      <figure>
-      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_5.png" alt="Step 7"></center>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_5.png" alt="Step 7"></center>
       <figcaption><i>Step 7</i></figcaption>
     </figure>   
     </li>
     <li>qMRLab is now in your path, however the next time you open MATLAB, it won’t be. You can choose to do this each time you use qMRLab (open the directory and run startup), or you can add it to your default path. To do so, navigate to <b>Set Path</b> in the <b>Environment</b> section of the <b>Home</b> tab, and click <b>Save</b>.
      <figure>
-      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_6.png" alt="Step 8"></center>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_6.png" alt="Step 8"></center>
       <figcaption><i>Step 8</i></figcaption>
     </figure>  
     </li>
     <li>If you did the last step, now anytime you want to use qMRLab you’ll be able to immediately after opening MATLAB.</li>
     <li>To start qMRLab, type <b>qMRLab</b> in the <b>Command Window</b> and wait for the graphical user interface (GUI) to load.
      <figure>
-      <center> <img src="{{ site.baseurl }}/assets/images/qmtlab_sop_7.png" alt="Step 10"></center>
+      <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_7.png" alt="Step 10"></center>
       <figcaption><i>Step 10</i></figcaption>
     </figure>  
     </li>
