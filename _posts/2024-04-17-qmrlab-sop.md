@@ -76,7 +76,7 @@ Following this step, you need to ensure that a previous version of qMRLab has no
     <li>A new window will appear asking if you want to save this as default. This choice is up to you, we recommend that you click <b>Yes</b> but this may not be appropriate for everyone.
     <figure>
       <center> <img src="{{ site.baseurl }}/assets/images/qmrlab_sop_3.png" alt="Step 5"></center>
-      <figcaption><i>Step 5</i></figcaption>
+      <center><figcaption><i>Step 5</i></figcaption></center>
     </figure>
     </li>
     <li>Now, open the qMRLab directory where you’ve stored it after downloading the correct version and extracting it.
