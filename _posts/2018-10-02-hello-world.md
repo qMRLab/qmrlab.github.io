@@ -23,6 +23,8 @@ To make it easy to share _qRecipes_, we developed qMRLab, an open-source softwar
 
 We believe qMRLab is an important step in this direction, providing a unified platform that researchers can use to fit their qMR data, simulate signals, and add customizable modules to fulfill the needs of the community. Currently, most labs use code they wrote themselves and is never shared, making it challenging to reproduce their qMR studies. By providing an open-source software package, coupled with a simple and easy-to-use graphical interface, we also hope to make these techniques accessible to a broader audience, and to ease the translation of qMRI techniques into the clinic.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yrbtCYDorI?si=XezgfCSrE1iJsuFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 NEXT: The Problem
 
 _Figures used in this blog post are created on Adobe Illustrator based on the free vector graphics provided by [fullvector](https://www.freepik.com/fullvector) and from [Freepik](https://www.freepik.com) team, and original work by [July Gerard](https://www.behance.net/gerardjuly) via [Behance](https://www.behance.net)._
