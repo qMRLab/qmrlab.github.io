@@ -19,7 +19,7 @@ This qMRLab standard operating procedure (SOP) series is intended to be a step-b
 </p>
 
 <p>
-In addition, below is a video tutorial on how to use qMRLab and many of its features (eg., simulations, data fitting, quality checking, etc) using the quantitative MT moule. It was presente at the 2022 ISMRM conference.
+In addition, below is a video tutorial on how to use qMRLab and many of its features (eg., simulations, data fitting, quality checking, etc) using the quantitative MT moule. It was presented at the 2022 ISMRM conference.
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V3LMOTuwMs4?si=PCu_QiKMwt-3Zv1f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
